@@ -89,3 +89,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Как разобраться со своими данными, если ты не аналитик](https://netpeak.ua/conference/354/), eCommerce 2017, *ноябрь 2017*
 3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
+
+## Книги
+1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
+2. [Язык R для интернет маркетинга](https://selesnow.github.io/r_for_marketing)
