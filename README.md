@@ -87,6 +87,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
 5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
 
+## Курсы
+1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
+
 ## Выступления
 1. [BI решение для отдела контекстной рекламы](https://netpeak.ua/conference/322/), Analyze, *апрель 2017*
 2. [Как разобраться со своими данными, если ты не аналитик](https://netpeak.ua/conference/354/), eCommerce 2017, *ноябрь 2017*
