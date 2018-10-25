@@ -77,6 +77,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 72. [Всемогущая функция Query — подробное руководство](https://netpeak.net/ru/blog/vsemogushchaya-funktsiya-query-podrobnoe-rukovodstvo), Блог Netpeak, *август 2018*
 73. [Как работать с API Яндекс.Метрики с помощью языка R](https://netpeak.net/ru/blog/kak-rabotat-s-api-yandeks-metriki-s-pomoshch-yu-yazyka-r), Блог Netpeak, *октябрь 2018*
 74. [Обзор R пакетов для интернет маркетинга, часть 1](https://habr.com/post/425425/), Хабр, *октябрь 2018*
+75. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в третьем квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-v-tret-yem-kvartale-2018-goda/), Блог Netpeak, *октябрь 2018*
+76. [Сколько стоил клик в Google Ads и Facebook в Украине в третьем квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-tret-yem-kvartale-2018-goda/), Блог Netpeak, *октябрь 2018*
 
 ## Интервью
 1. [Как поменялись цены на рекламу после бана российских сайтов: блиц-опрос](https://ain.ua/2017/08/18/kak-pomenyalis-ceny-na-reklamu/), AIN, *август 2017*
