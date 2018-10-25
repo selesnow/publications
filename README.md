@@ -81,10 +81,11 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 76. [Сколько стоил клик в Google Ads и Facebook в Украине в третьем квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-tret-yem-kvartale-2018-goda/), Блог Netpeak, *октябрь 2018*
 
 ## Интервью
-1. [Как поменялись цены на рекламу после бана российских сайтов: блиц-опрос](https://ain.ua/2017/08/18/kak-pomenyalis-ceny-na-reklamu/), AIN, *август 2017*
-2. [Результаты бана российских сайтов: падение охватов и передел бюджетов](https://ain.ua/2017/08/21/ban-rossijskix-sajtov-tri-mesyaca-spustya/), AIN, *август 2017*
-3. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
-4. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
+1. [Что делают интернет-маркетологи под Новый год?](https://netpeak.net/ru/blog/chto-delayut-internet-marketologi-pod-novyi-god/), Блог Netpeak, *декабрь 2016*
+2. [Как поменялись цены на рекламу после бана российских сайтов: блиц-опрос](https://ain.ua/2017/08/18/kak-pomenyalis-ceny-na-reklamu/), AIN, *август 2017*
+3. [Результаты бана российских сайтов: падение охватов и передел бюджетов](https://ain.ua/2017/08/21/ban-rossijskix-sajtov-tri-mesyaca-spustya/), AIN, *август 2017*
+4. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
+5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
 
 ## Выступления
 1. [BI решение для отдела контекстной рекламы](https://netpeak.ua/conference/322/), Analyze, *апрель 2017*
