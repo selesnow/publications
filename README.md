@@ -86,6 +86,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Результаты бана российских сайтов: падение охватов и передел бюджетов](https://ain.ua/2017/08/21/ban-rossijskix-sajtov-tri-mesyaca-spustya/), AIN, *август 2017*
 4. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
 5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
+6. [Язык R в веб-аналитике и интернет-маркетинге](https://leadzavod.com/jazyk-r-v-veb-analitike-i-internet-marketinge/), Лидзавод, *октябрь 2018*
 
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
