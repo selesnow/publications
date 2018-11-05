@@ -1,22 +1,22 @@
 # ###############################################
 # RAdwords
 # ###############################################
-devtools::install_github("jburkhardt/RAdwords" ) # Установка пакета
-library(RAdwords)                                # Подключаем пакет
-setwd("C:/matemarketing")                        # устанавливаем новую рабочую директорию
+devtools::install_github("jburkhardt/RAdwords" ) # Г“Г±ГІГ Г­Г®ГўГЄГ  ГЇГ ГЄГҐГІГ 
+library(RAdwords)                                # ГЏГ®Г¤ГЄГ«ГѕГ·Г ГҐГ¬ ГЇГ ГЄГҐГІ
+setwd("C:/matemarketing")                        # ГіГ±ГІГ Г­Г ГўГ«ГЁГўГ ГҐГ¬ Г­Г®ГўГіГѕ Г°Г ГЎГ®Г·ГіГѕ Г¤ГЁГ°ГҐГЄГІГ®Г°ГЁГѕ
 
-# Выбор отчёта
+# Г‚Г»ГЎГ®Г° Г®ГІГ·ВёГІГ 
 reports()
 
-# Выбор полей
+# Г‚Г»ГЎГ®Г° ГЇГ®Г«ГҐГ©
 metrics(report = "ACCOUNT_PERFORMANCE_REPORT")
 
-# авторизация
-browseURL("https://console.cloud.google.com") # настройка Google Cloud Console
-browseURL("https://ads.google.com/")           # управляющий аккаунт Google Ads
-adw_auth <- doAuth(save = TRUE)               # авторизация
+# Г ГўГІГ®Г°ГЁГ§Г Г¶ГЁГї
+browseURL("https://console.cloud.google.com") # Г­Г Г±ГІГ°Г®Г©ГЄГ  Google Cloud Console
+browseURL("https://ads.google.com/")           # ГіГЇГ°Г ГўГ«ГїГѕГ№ГЁГ© Г ГЄГЄГ ГіГ­ГІ Google Ads
+adw_auth <- doAuth(save = TRUE)               # Г ГўГІГ®Г°ГЁГ§Г Г¶ГЁГї
 
-# формирование простого отчёта
+# ГґГ®Г°Г¬ГЁГ°Г®ГўГ Г­ГЁГҐ ГЇГ°Г®Г±ГІГ®ГЈГ® Г®ГІГ·ВёГІГ 
 simple_body <- statement(report = "CAMPAIGN_PERFORMANCE_REPORT", 
                          select = c("CampaignId",
                                     "CampaignStatus", 
@@ -27,12 +27,12 @@ simple_body <- statement(report = "CAMPAIGN_PERFORMANCE_REPORT",
                          start  = "2018-09-01",
                          end    = "2018-09-30")
 
-# отправка запроса
+# Г®ГІГЇГ°Г ГўГЄГ  Г§Г ГЇГ°Г®Г±Г 
 simple_data <- getData(clientCustomerId = "957-328-7481",
                        google_auth      = adw_auth,
                        statement        = simple_body)
 
-# получить полный список объектов, даже если по ним не было показов
+# ГЇГ®Г«ГіГ·ГЁГІГј ГЇГ®Г«Г­Г»Г© Г±ГЇГЁГ±Г®ГЄ Г®ГЎГєГҐГЄГІГ®Гў, Г¤Г Г¦ГҐ ГҐГ±Г«ГЁ ГЇГ® Г­ГЁГ¬ Г­ГҐ ГЎГ»Г«Г® ГЇГ®ГЄГ Г§Г®Гў
 kw_body <- simple_body <- statement(report = "CRITERIA_PERFORMANCE_REPORT", 
                                     select = c("Id",
                                                "Criteria", 
@@ -41,13 +41,13 @@ kw_body <- simple_body <- statement(report = "CRITERIA_PERFORMANCE_REPORT",
                                                "CpcBid",
                                                "QualityScore"))
 
-# отправка запроса
+# Г®ГІГЇГ°Г ГўГЄГ  Г§Г ГЇГ°Г®Г±Г 
 keywords <- getData(clientCustomerId = "957-328-7481",
                     google_auth      = adw_auth,
                     statement        = kw_body,
                     includeZeroImpressions = TRUE)
 
-# исправляем проблему с кодировкой
+# ГЁГ±ГЇГ°Г ГўГ«ГїГҐГ¬ ГЇГ°Г®ГЎГ«ГҐГ¬Гі Г± ГЄГ®Г¤ГЁГ°Г®ГўГЄГ®Г©
 keywords$`Keyword/Placement` <- iconv(keywords$`Keyword/Placement`, from = "UTF-8", to = "1251") 
 keywords$`Keyword/Placement` <- iconv(keywords$`Keyword/Placement`, from = "UTF-8", to = "1251") 
 keywords$CriteriaDisplayName <- iconv(keywords$CriteriaDisplayName, from = "UTF-8", to = "1251") 
@@ -56,14 +56,14 @@ keywords$CriteriaDisplayName <- iconv(keywords$CriteriaDisplayName, from = "UTF-
 # ###############################################
 # adwordsR
 # ###############################################
-install.packages("adwordsR") # установка
-library(adwordsR)            # подключение
+install.packages("adwordsR") # ГіГ±ГІГ Г­Г®ГўГЄГ 
+library(adwordsR)            # ГЇГ®Г¤ГЄГ«ГѕГ·ГҐГ­ГЁГҐ
 
-# авторизация
-my_adw_token <- generateAdwordsToken(addGitignore = FALSE) # авторизация
-my_adw_token <- loadAdwordsToken()                         # загрузка токена
+# Г ГўГІГ®Г°ГЁГ§Г Г¶ГЁГї
+my_adw_token <- generateAdwordsToken(addGitignore = FALSE) # Г ГўГІГ®Г°ГЁГ§Г Г¶ГЁГї
+my_adw_token <- loadAdwordsToken()                         # Г§Г ГЈГ°ГіГ§ГЄГ  ГІГ®ГЄГҐГ­Г 
 
-# простой запрос
+# ГЇГ°Г®Г±ГІГ®Г© Г§Г ГЇГ°Г®Г±
 simple_data2 <- getReportData(reportType        = "CAMPAIGN_PERFORMANCE_REPORT",
                               attributes        = c("CampaignId",
                                                     "CampaignStatus", 
@@ -76,10 +76,10 @@ simple_data2 <- getReportData(reportType        = "CAMPAIGN_PERFORMANCE_REPORT",
                               clientCustomerId  = "957-328-7481",
                               credentials       = my_adw_token)
 
-# преобразуем денежные данные
+# ГЇГ°ГҐГ®ГЎГ°Г Г§ГіГҐГ¬ Г¤ГҐГ­ГҐГ¦Г­Г»ГҐ Г¤Г Г­Г­Г»ГҐ
 simple_data2$Cost <- simple_data2$Cost / 1000000
 
-# список ключевых слов
+# Г±ГЇГЁГ±Г®ГЄ ГЄГ«ГѕГ·ГҐГўГ»Гµ Г±Г«Г®Гў
 keywords2 <- getReportData(reportType        = "CRITERIA_PERFORMANCE_REPORT",
                            attributes        = c("Id",
                                                  "Criteria", 
