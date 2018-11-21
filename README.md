@@ -97,6 +97,18 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
 
+## Вебинары
+1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
+
+## Ресурсы
+1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
+2. [Data Club](https://vk.com/data_club) - группа вконтакте
+3. [alexeyseleznev.wordpress.com](https://alexeyseleznev.wordpress.com/) - личный блог
+4. [selesnow.github.io](https://selesnow.github.io) - сайт разработанных мной пакетов для языка R
+5. [github.com/selesnow](https://[github.com/selesnow) - мои проекты на GitHub
+6. [habr.com/users/selesnow/](https://habr.com/users/selesnow/) - профиль на Хабре
+7. [rdocumentation.org/collaborators/name/Alexey%20Seleznev](https://rdocumentation.org/collaborators/name/Alexey%20Seleznev) - страница на Rdocumentation
+
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
-2. [Язык R для интернет маркетинга](https://selesnow.github.io/r_for_marketing)
+2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/)
