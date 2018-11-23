@@ -1,16 +1,20 @@
-# Установка пакетов
-install.packages("devtools")
-devtools::install_github("selesnow/ryandexdirect")
+# ###############################################
+# ryandexdirect
+# ###############################################
 
-# Подключение пакета
+# вЂќСЃС‚Р°РЅРѕРІРєР° РїР°РєРµС‚РѕРІ
+install.packages("devtools")
+devtools::install_github("selesnow/ryandexdirect", upgrade = "never")
+
+# С•РѕРґРєР»СЋС‡РµРЅРёРµ РїР°РєРµС‚Р°
 library(ryandexdirect)
 
-# Переходим в рабочую директорию
-getwd()                   # текущая директория
-setwd("C:/webpromo_now_2018") # устанавливаем новую рабочую директорию
-getwd()                   # текущая директория
+# С•РµСЂРµС…РѕРґРёРј РІ СЂР°Р±РѕС‡СѓСЋ РґРёСЂРµРєС‚РѕСЂРёСЋ
+getwd()                   # С‚РµРєСѓС‰Р°В¤ РґРёСЂРµРєС‚РѕСЂРёВ¤
+setwd("C:/webpromo_now_2018") # СѓСЃС‚Р°РЅР°РІР»РёРІР°РµРј РЅРѕРІСѓСЋ СЂР°Р±РѕС‡СѓСЋ РґРёСЂРµРєС‚РѕСЂРёСЋ
+getwd()                   # С‚РµРєСѓС‰Р°В¤ РґРёСЂРµРєС‚РѕСЂРёВ¤
 
-# Авторизация 
+# СРІС‚РѕСЂРёР·Р°С†РёВ¤ 
 invisible(
     # ===============================================
     yadirAuth(Login     = "irina.netpeak", 
@@ -18,70 +22,72 @@ invisible(
     # ===============================================
 )
 
-# просмотр списка приложений которым вы предоставили доступ
+# РїСЂРѕСЃРјРѕС‚СЂ СЃРїРёСЃРєР° РїСЂРёР»РѕР¶РµРЅРёР№ РєРѕС‚РѕСЂС‹Рј РІС‹ РїСЂРµРґРѕСЃС‚Р°РІРёР»Рё РґРѕСЃС‚СѓРї
 browseURL("https://passport.yandex.ru/profile/access")
 
 # ###################################################
-# Загрузка различных объектов из рекламного аккаунта
+# В«Р°РіСЂСѓР·РєР° СЂР°Р·Р»РёС‡РЅС‹С… РѕР±СЉРµРєС‚РѕРІ РёР· СЂРµРєР»Р°РјРЅРѕРіРѕ Р°РєРєР°СѓРЅС‚Р°
 # ###################################################
 
-# Список рекламных кампаний
-camp <- yadirGetCampaignList(Logins = "irina.netpeak",
+# вЂ”РїРёСЃРѕРє СЂРµРєР»Р°РјРЅС‹С… РєР°РјРїР°РЅРёР№
+camp <- yadirGetCampaignList(Logins    = "irina.netpeak",
                              TokenPath = "C:/webpromo_now_2018/tokens",
-                             States = "ON",
-                             Types  = "TEXT_CAMPAIGN")
+                             States    = "ON",
+                             Types     = "TEXT_CAMPAIGN")
 
-# Список ключевых слов
+# вЂ”РїРёСЃРѕРє РєР»СЋС‡РµРІС‹С… СЃР»РѕРІ
 kw <- yadirGetKeyWords(Login       = "irina.netpeak",
                        TokenPath   = "C:/webpromo_now_2018/tokens",
                        CampaignIds = camp$Id[1:5],
                        States      = "ON")
 
-# Список групп объявлений
+# вЂ”РїРёСЃРѕРє РіСЂСѓРїРї РѕР±СЉВ¤РІР»РµРЅРёР№
 adgroups <- yadirGetAdGroups(Login       = "irina.netpeak",
                              TokenPath   = "C:/webpromo_now_2018/tokens",
                              CampaignIds = camp$Id[c(1,2)],
                              Types       = "TEXT_AD_GROUP",
                              Statuses    = c("ACCEPTED", "MODERATION"))
 
-# Список объявлений
+# вЂ”РїРёСЃРѕРє РѕР±СЉВ¤РІР»РµРЅРёР№
 ads <- yadirGetAds(Login       = "irina.netpeak",
                    TokenPath   = "C:/webpromo_now_2018/tokens",
                    CampaignIds = camp$Id[c(1,2)])
 
-# Список быстрых ссылок 
+# вЂ”РїРёСЃРѕРє Р±С‹СЃС‚СЂС‹С… СЃСЃС‹Р»РѕРє 
 links <- yadirGetSiteLinks(Login       = "irina.netpeak",
                            TokenPath   = "C:/webpromo_now_2018/tokens")
 
 # ###################################################
-# Загрузка справочной информации
+# В«Р°РіСЂСѓР·РєР° СЃРїСЂР°РІРѕС‡РЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё
 # ###################################################
 
-# Курсы валют
+# В СѓСЂСЃС‹ РІР°Р»СЋС‚
 currency <- yadirGetDictionary(DictionaryName = "Currencies",
                                Language       = "en",
                                Login          = "irina.netpeak",
                                TokenPath      = "C:/webpromo_now_2018/tokens")
 
-# Георгафический справочник
+# в€љРµРѕСЂРіР°С„РёС‡РµСЃРєРёР№ СЃРїСЂР°РІРѕС‡РЅРёРє
 regions <- yadirGetDictionary(DictionaryName = "GeoRegions",
                               Language       = "ru",
                               Login          = "irina.netpeak",
                               TokenPath      = "C:/webpromo_now_2018/tokens")
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїСЂР°РІРєСѓ РїРѕ С„СѓРЅРєС†РёРё
 ?yadirGetDictionary
+
 # ###################################################
-# Загрузка статистики
+# В«Р°РіСЂСѓР·РєР° СЃС‚Р°С‚РёСЃС‚РёРєРё
 # ###################################################
 
-# простейший отчёт за прошлый месяц
+# РїСЂРѕСЃС‚РµР№С€РёР№ РѕС‚С‡Р„С‚ Р·Р° РїСЂРѕС€Р»С‹Р№ РјРµСЃВ¤С†
 simple_report <- yadirGetReport(DateRangeType = "LAST_MONTH",
                                 FieldNames    = c("Date", "Clicks", "Impressions"),
                                 Login         = "irina.netpeak",
                                 TokenPath     = "C:/webpromo_now_2018/tokens")
 
-# отчёт по конверсиям с моделью аттрибуции за статичный период
+# РѕС‚С‡Р„С‚ РїРѕ РєРѕРЅРІРµСЂСЃРёВ¤Рј СЃ РјРѕРґРµР»СЊСЋ Р°С‚С‚СЂРёР±СѓС†РёРё Р·Р° СЃС‚Р°С‚РёС‡РЅС‹Р№ РїРµСЂРёРѕРґ
 attribution_report <- yadirGetReport(DateFrom          = "2018-10-15",
-                                     DateTo            = "2018-10-20",
+                                     DateTo            = "2018-11-20",
                                      FieldNames        = c("Date", 
                                                            "Conversions"),
                                      Goals             = c(32211309, 30416434, 2731103, 9898),
@@ -89,7 +95,7 @@ attribution_report <- yadirGetReport(DateFrom          = "2018-10-15",
                                      Login             = "irina.netpeak",
                                      TokenPath         = "C:/webpromo_now_2018/tokens")
 
-# отчёт с применением фильтрации
+# РѕС‚С‡Р„С‚ СЃ РїСЂРёРјРµРЅРµРЅРёРµРј С„РёР»СЊС‚СЂР°С†РёРё
 filtring_report <- yadirGetReport(DateRangeType = "LAST_30_DAYS",
                                   FieldNames    = c("Date", "Clicks", "Impressions"),
                                   FilterList    = c("Conversions GREATER_THAN 1", 

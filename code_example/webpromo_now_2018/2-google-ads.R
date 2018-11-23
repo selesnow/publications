@@ -1,22 +1,23 @@
 # ###############################################
 # RAdwords
 # ###############################################
-devtools::install_github("jburkhardt/RAdwords" ) # Установка пакета
-library(RAdwords)                                # Подключаем пакет
-setwd("C:\webpromo_now_2018")                    # устанавливаем новую рабочую директорию
 
-# Выбор отчёта
+devtools::install_github("jburkhardt/RAdwords" ) # РЈСЃС‚Р°РЅРѕРІРєР° РїР°РєРµС‚Р°
+library(RAdwords)                                # РџРѕРґРєР»СЋС‡Р°РµРј РїР°РєРµС‚
+setwd("C:\\webpromo_now_2018")                   # СѓСЃС‚Р°РЅР°РІР»РёРІР°РµРј РЅРѕРІСѓСЋ СЂР°Р±РѕС‡СѓСЋ РґРёСЂРµРєС‚РѕСЂРёСЋ
+
+# Р’С‹Р±РѕСЂ РѕС‚С‡С‘С‚Р°
 reports()
 
-# Выбор полей
+# Р’С‹Р±РѕСЂ РїРѕР»РµР№
 metrics(report = "ACCOUNT_PERFORMANCE_REPORT")
 
-# авторизация
-browseURL("https://console.cloud.google.com") # настройка Google Cloud Console
-browseURL("https://ads.google.com/")          # управляющий аккаунт Google Ads
-adw_auth <- doAuth(save = TRUE)               # авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёСЏ
+browseURL("https://console.cloud.google.com") # РЅР°СЃС‚СЂРѕР№РєР° Google Cloud Console
+browseURL("https://ads.google.com/")          # СѓРїСЂР°РІР»СЏСЋС‰РёР№ Р°РєРєР°СѓРЅС‚ Google Ads
+adw_auth <- doAuth(save = TRUE)               # Р°РІС‚РѕСЂРёР·Р°С†РёСЏ
 
-# формирование простого отчёта
+# С„РѕСЂРјРёСЂРѕРІР°РЅРёРµ РїСЂРѕСЃС‚РѕРіРѕ РѕС‚С‡С‘С‚Р°
 simple_body <- statement(report = "CAMPAIGN_PERFORMANCE_REPORT", 
                          select = c("CampaignId",
                                     "CampaignStatus", 
@@ -27,12 +28,12 @@ simple_body <- statement(report = "CAMPAIGN_PERFORMANCE_REPORT",
                          start  = "2018-09-01",
                          end    = "2018-09-30")
 
-# отправка запроса
+# РѕС‚РїСЂР°РІРєР° Р·Р°РїСЂРѕСЃР°
 simple_data <- getData(clientCustomerId = "957-328-7481",
                        google_auth      = adw_auth,
                        statement        = simple_body)
 
-# получить полный список объектов, даже если по ним не было показов
+# РїРѕР»СѓС‡РёС‚СЊ РїРѕР»РЅС‹Р№ СЃРїРёСЃРѕРє РѕР±СЉРµРєС‚РѕРІ, РґР°Р¶Рµ РµСЃР»Рё РїРѕ РЅРёРј РЅРµ Р±С‹Р»Рѕ РїРѕРєР°Р·РѕРІ
 kw_body <- simple_body <- statement(report = "CRITERIA_PERFORMANCE_REPORT", 
                                     select = c("Id",
                                                "Criteria", 
@@ -41,13 +42,13 @@ kw_body <- simple_body <- statement(report = "CRITERIA_PERFORMANCE_REPORT",
                                                "CpcBid",
                                                "QualityScore"))
 
-# отправка запроса
+# РѕС‚РїСЂР°РІРєР° Р·Р°РїСЂРѕСЃР°
 keywords <- getData(clientCustomerId = "957-328-7481",
                     google_auth      = adw_auth,
                     statement        = kw_body,
                     includeZeroImpressions = TRUE)
 
-# исправляем проблему с кодировкой
+# РёСЃРїСЂР°РІР»СЏРµРј РїСЂРѕР±Р»РµРјСѓ СЃ РєРѕРґРёСЂРѕРІРєРѕР№
 keywords$`Keyword/Placement` <- iconv(keywords$`Keyword/Placement`, from = "UTF-8", to = "1251") 
 keywords$`Keyword/Placement` <- iconv(keywords$`Keyword/Placement`, from = "UTF-8", to = "1251") 
 keywords$CriteriaDisplayName <- iconv(keywords$CriteriaDisplayName, from = "UTF-8", to = "1251") 
