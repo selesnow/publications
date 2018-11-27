@@ -1,11 +1,11 @@
-# Яндекс Метрика
+# СЏРЅРґРµРєСЃ РјРµС‚СЂРёРєР°
 install.packages('rym')
 library(rym)
 
-# Переходим в рабочую директорию
+# РїРµСЂРµС…РѕРґРёРј РІ СЂР°Р±РѕС‡СѓСЋ РґРёСЂРµРєС‚РѕСЂРёСЋ
 setwd("C:\\webinars\\cybermarketing-2018")
 
-# Авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёВ¤
 invisible(
   rym_auth(login = "vipman.netpeak", token.path = "metrica_token")
 )
@@ -14,35 +14,35 @@ invisible(
   rym_auth(login = "selesnow", token.path = "metrica_token")
 )
 
-# API Управления
-# получить список счётчиков
+# API РЈРїСЂР°РІР»РµРЅРёСЏ
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє СЃС‡Р„С‚С‡РёРєРѕРІ
 selesnow.counters <- rym_get_counters(login      = "selesnow",
                                       token.path = "metrica_token")
 
 vipman.counters   <- rym_get_counters(login      = "vipman.netpeak",
                                       token.path = "metrica_token")
 
-# получить список целей
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє С†РµР»РµР№
 my_goals <- rym_get_goals(counter = 10595804,
                           login      = "vipman.netpeak",
                           token.path = "metrica_token")
 
-# получить список фильров
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє С„РёР»СЊСЂРѕРІ
 my_filter <- rym_get_filters(counter = 10595804,
                              login      = "vipman.netpeak",
                              token.path = "metrica_token")
 
-# получить список сегментов
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє СЃРµРіРјРµРЅС‚РѕРІ
 my_segments <- rym_get_segments(counter = 10595804,
                                 login      = "vipman.netpeak",
                                 token.path = "metrica_token")
 
-# получить список пользователей счётчика
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ СЃС‡Р„С‚С‡РёРєР°
 users <- rym_users_grants(counter = 10595804,
                           login      = "vipman.netpeak",
                           token.path = "metrica_token")
 
-# API отчётов
+# API РѕС‚С‡Р„С‚РѕРІ
 reporting.api.stat <- rym_get_data(counters   = "23660530,10595804",
                                    date.from  = "2018-08-01",
                                    date.to    = "yesterday",
@@ -64,7 +64,7 @@ logs.api.stat      <- rym_get_logs(counter    = 23660530,
                                    login      = "vipman.netpeak",
                                    token.path = "metrica_token")
 
-# API Совместимый с Core API Google Analytics v3
+# API вЂ”РѕРІРјРµСЃС‚РёРјС‹Р№ СЃ Core API Google Analytics v3
 ga.api.stat        <- rym_get_ga(counter    = "ga:22584910",
                                  dimensions = "ga:date,ga:source",
                                  metrics    = "ga:sessions,ga:users",
