@@ -101,6 +101,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Вебинары
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
+2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
 
 ## Ресурсы
 1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
@@ -111,6 +112,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [habr.com/users/selesnow/](https://habr.com/users/selesnow/) - профиль на Хабре
 7. [rdocumentation.org/collaborators/name/Alexey%20Seleznev](https://rdocumentation.org/collaborators/name/Alexey%20Seleznev) - страница на Rdocumentation
 8. [Профиль на блоге Netpeak](https://netpeak.net/ru/blog/user/publication/826/)
+9. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
+10. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
 
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
