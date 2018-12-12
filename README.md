@@ -101,6 +101,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Как разобраться со своими данными, если ты не аналитик](https://netpeak.ua/conference/354/), eCommerce 2017, *ноябрь 2017*
 3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
+5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://netpeak.ua/education/speech/408/), Матемаркетинг, *ноябрь 2018*
 
 ## Вебинары
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
