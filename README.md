@@ -1,6 +1,6 @@
 На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете.
 
-*Дата последнего обновления: 4 декабря 2018*
+*Дата последнего обновления: 12 декабря 2018*
 
 ## Статьи
 1. [Когортный анализ в Google Analytics: пошаговая инструкция](https://netpeak.net/ru/blog/kogortniy-analiz-v-google-analytics-poshagovaya-instruktsiya/), Блог Netpeak, *сентябрь 2015*
@@ -102,6 +102,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
 5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://netpeak.ua/education/speech/408/), Матемаркетинг, *ноябрь 2018*
+6. Три шага для построения аналитики компании, Lviv iCamp, *декабрь 2018*
 
 ## Вебинары
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
