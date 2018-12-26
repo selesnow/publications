@@ -1,6 +1,15 @@
 На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете.
 
-*Дата последнего обновления: 12 декабря 2018*
+*Дата последнего обновления: 26 декабря 2018*
+
+## Содержание
+* Статьи
+* Интервью
+* Курсы
+* Выступления
+* Вебинары
+* Ресурсы
+* Книги
 
 ## Статьи
 1. [Когортный анализ в Google Analytics: пошаговая инструкция](https://netpeak.net/ru/blog/kogortniy-analiz-v-google-analytics-poshagovaya-instruktsiya/), Блог Netpeak, *сентябрь 2015*
@@ -107,6 +116,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 ## Вебинары
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
 2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
+3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
 
 ## Ресурсы
 1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
