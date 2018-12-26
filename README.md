@@ -106,8 +106,12 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
 6. [Язык R в веб-аналитике и интернет-маркетинге](https://leadzavod.com/jazyk-r-v-veb-analitike-i-internet-marketinge/), Лидзавод, *октябрь 2018*
 
+[↑ К содержанию](#содержание)
+
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
+
+[↑ К содержанию](#содержание)
 
 ## Выступления
 1. [BI решение для отдела контекстной рекламы](https://netpeak.ua/conference/322/), Analyze, *апрель 2017*
@@ -117,10 +121,14 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://netpeak.ua/education/speech/408/), Матемаркетинг, *ноябрь 2018*
 6. Три шага для построения аналитики компании, Lviv iCamp, *декабрь 2018*
 
+[↑ К содержанию](#содержание)
+
 ## Вебинары
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
 2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
 3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
+
+[↑ К содержанию](#содержание)
 
 ## Ресурсы
 1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
@@ -134,6 +142,10 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
 10. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
 
+[↑ К содержанию](#содержание)
+
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
 2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/)
+
+[↑ К содержанию](#содержание)
