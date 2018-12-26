@@ -96,6 +96,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 78. [Насколько безопасно использовать R пакеты для работы с API рекламных систем](https://habr.com/post/430888/), Хабр, *ноябрь 2018*
 79. [Зачем учить язык R интернет-маркетологу, и как сделать это максимально быстро](https://netpeak.net/ru/blog/zachem-uchit-yazyk-r-internet-marketologu-i-kak-sdelat-eto-maksimal-no-bystro/), Блог Netpeak, *декабрь 2018*
 
+[↑ К содержанию](#содержание)
+
 ## Интервью
 1. [Что делают интернет-маркетологи под Новый год?](https://netpeak.net/ru/blog/chto-delayut-internet-marketologi-pod-novyi-god/), Блог Netpeak, *декабрь 2016*
 2. [Как поменялись цены на рекламу после бана российских сайтов: блиц-опрос](https://ain.ua/2017/08/18/kak-pomenyalis-ceny-na-reklamu/), AIN, *август 2017*
