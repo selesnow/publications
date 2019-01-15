@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 26 декабря 2018*
+*Дата последнего обновления: 15 января 2019*
 
-![](https://img.shields.io/badge/update-2018--12--26-green.svg)
+![Update](https://img.shields.io/badge/update-2019--01--15-green.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -95,6 +95,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 77. [rmytarget 2.0.1 — перевод пакета на работу с MyTarget API v2](https://alexeyseleznev.wordpress.com/2018/11/22/rmytarget-2-0-1-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D1%81-mytarget-api-v2/), Блог Алексея Селезнёва, *ноябрь 2018*
 78. [Насколько безопасно использовать R пакеты для работы с API рекламных систем](https://habr.com/post/430888/), Хабр, *ноябрь 2018*
 79. [Зачем учить язык R интернет-маркетологу, и как сделать это максимально быстро](https://netpeak.net/ru/blog/zachem-uchit-yazyk-r-internet-marketologu-i-kak-sdelat-eto-maksimal-no-bystro/), Блог Netpeak, *декабрь 2018*
+80. [Дайджест обновлений R пакетов для интернет маркетинга — ryandexdirect, rfacebookstat, rvkstat, rym за март — декабрь 2018 года](https://alexeyseleznev.wordpress.com/2018/12/28/%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-r-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5/), Блог Алексея Селезнёва, *декабрь 2018*
+81. [Сколько стоил клик в Google Ads и Facebook в Украине в четвёртом квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-chetvertom-kvartale-2018-goda/), Блог Netpeak, *январь 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -119,7 +121,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
 5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://netpeak.ua/education/speech/408/), Матемаркетинг, *ноябрь 2018*
-6. Три шага для построения аналитики компании, Lviv iCamp, *декабрь 2018*
+6. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
 
 [↑ К содержанию](#содержание)
 
