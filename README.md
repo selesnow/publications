@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 21 января 2019*
+*Дата последнего обновления: 23 января 2019*
 
-![Update](https://img.shields.io/badge/update-2019--01--21-yellowgreen.svg)
+![Update](https://img.shields.io/badge/update-2019--01--23-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -98,6 +98,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 80. [Дайджест обновлений R пакетов для интернет маркетинга — ryandexdirect, rfacebookstat, rvkstat, rym за март — декабрь 2018 года](https://alexeyseleznev.wordpress.com/2018/12/28/%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-r-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5/), Блог Алексея Селезнёва, *декабрь 2018*
 81. [Сколько стоил клик в Google Ads и Facebook в Украине в четвёртом квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-chetvertom-kvartale-2018-goda/), Блог Netpeak, *январь 2019*
 82. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в четвертом квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-v-chetvertom-kvartale-2018-goda/), Блог Netpeak, *январь 2019*
+83. [Сколько стоил клик в Google Ads и Яндекс.Директ в Казахстане в четвертом квартале 2018 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-kazakhstane-v-chetvertom-kvartale-2018-goda/), Блог Netpeak, *январь 2019*
+84. [Как ускорить работу с API на языке R с помощью параллельных вычислений, на примере API Яндекс.Директ](https://habr.com/ru/post/437078/), Хабр, *январь 2019* 
 
 [↑ К содержанию](#содержание)
 
