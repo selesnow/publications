@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 23 января 2019*
+*Дата последнего обновления: 21 февараля 2019*
 
-![Update](https://img.shields.io/badge/update-2019--01--23-yellowgreen.svg)
+![Update](https://img.shields.io/badge/update-2019--02--21-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -110,6 +110,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
 5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
 6. [Язык R в веб-аналитике и интернет-маркетинге](https://leadzavod.com/jazyk-r-v-veb-analitike-i-internet-marketinge/), Лидзавод, *октябрь 2018*
+7. [R и Python для гуманитариев и непрограммистов](https://discourse.digital/blogs/r-i-python-dlja-gumanitariev-i-neprogrammistov/), Цифровой Дискурс, *феварль 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -132,6 +133,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
 2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
 3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
+4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://netology.ru/free-lessons/skolko-deneg-prinosit-vash-kontent-razbiraemsya-s-pomoshchyu-business-intelligence#/features), Нетология, *февраль 2019*
 
 [↑ К содержанию](#содержание)
 
