@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 21 марта 2019*
+*Дата последнего обновления: 8 апреля 2019*
 
-![LastUpdate](https://img.shields.io/badge/update-2019--02--21-yellowgreen.svg)
+![LastUpdate](https://img.shields.io/badge/update-2019--04--08-orange.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -114,6 +114,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [Язык R в веб-аналитике и интернет-маркетинге](https://leadzavod.com/jazyk-r-v-veb-analitike-i-internet-marketinge/), Лидзавод, *октябрь 2018*
 7. [R и Python для гуманитариев и непрограммистов](https://discourse.digital/blogs/r-i-python-dlja-gumanitariev-i-neprogrammistov/), Цифровой Дискурс, *феварль 2019*
 8. [Зачем интернет-маркетологу язык R](https://www.comagic.ru/blog/posts/feb/zachem_internet_marketologu_yazyk_r/), CoMagic, *феварль 2019*
+9. [Тренды веб-аналитики 2019: ускоренные тестирования, борьба с дивергентностью и уважение к людям](https://www.seonews.ru/analytics/trendy-veb-analitiki-2019-uskorennye-testirovaniya-borba-s-divergentnostyu-i-uvazhenie-k-lyudyam/), SEOnews, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
