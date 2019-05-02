@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 26 апреля 2019*
+*Дата последнего обновления: 2 мая 2019*
 
-![LastUpdate](https://img.shields.io/badge/update-2019--04--26-yellow.svg)
+![LastUpdate](https://img.shields.io/badge/update-2019--05--02-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -11,6 +11,7 @@
 * [Выступления](#выступления)
 * [Вебинары](#вебинары)
 * [Ресурсы](#ресурсы)
+* [Пакеты](#пакеты)
 * [Книги](#книги)
 
 ## Статьи
@@ -105,6 +106,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 87. [Как ускорить работу с API на языке R с помощью параллельных вычислений, на примере API Яндекс.Директ (Часть 2)](https://habr.com/ru/post/448404/), Хабр, *апрель 2019*
 88. [Сколько стоит клик в Казахстане — аналитика данных Google Ads и Яндекс.Директ за первый квартал 2019](https://netpeak.net/ru/blog/skol-ko-stoit-klik-v-kazakhstane-analitika-dannykh-google-ads-i-yandeks-direkt-za-pervyy-kvartal-2019/), Блог Netpeak, *апрель 2019*
 89. [Аналитический инструмент для Concert.ua — контролируем рекламные бюджеты сотен мероприятий в реальном времени](https://netpeak.net/ru/blog/analiticheskiy-instrument-dlya-concert-ua-kontroliruyem-reklamnyye-byudzhety-soten-meropriyatiy-v-real-nom-vremeni/), Блог Netpeak, *апрель 2019*
+90. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в первом квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-v-pervom-kvartale-2019-goda/), Блог Netpeak, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -118,6 +120,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 7. [R и Python для гуманитариев и непрограммистов](https://discourse.digital/blogs/r-i-python-dlja-gumanitariev-i-neprogrammistov/), Цифровой Дискурс, *феварль 2019*
 8. [Зачем интернет-маркетологу язык R](https://www.comagic.ru/blog/posts/feb/zachem_internet_marketologu_yazyk_r/), CoMagic, *феварль 2019*
 9. [Тренды веб-аналитики 2019: ускоренные тестирования, борьба с дивергентностью и уважение к людям](https://www.seonews.ru/analytics/trendy-veb-analitiki-2019-uskorennye-testirovaniya-borba-s-divergentnostyu-i-uvazhenie-k-lyudyam/), SEOnews, *апрель 2019*
+10. [R, Python, JavaScript или… Excel? Что учить интернет-маркетологу для профессионального роста](https://www.comagic.ru/blog/posts/apr/r_python_javascript_ili_excel_chto_uchit_internet_marketologu_dlya_professionalnogo_rosta/), CoMagic, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -155,6 +158,18 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 8. [Профиль на блоге Netpeak](https://netpeak.net/ru/blog/user/publication/826/)
 9. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
 10. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
+
+[↑ К содержанию](#содержание)
+
+## Пакеты
+1. ryandexdirect ([CRAN](https://cran.r-project.org/package=ryandexdirect), [GitHub](https://github.com/selesnow/ryandexdirect))
+2. rfacebookstat ([CRAN](https://cran.r-project.org/package=rfacebookstat), [GitHub](https://github.com/selesnow/rfacebookstat))
+3. rmytarget ([CRAN](https://cran.r-project.org/package=rmytarget), [GitHub](https://github.com/selesnow/rmytarget), [GitLab](https://gitlab.com/selesnow/rmytarget))
+4. rym ([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))
+5. getProxy ([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))
+6. rvkstat ([GitHub](https://github.com/selesnow/rvkstat))
+7. rmixpanel ([GitHub](https://github.com/selesnow/rmixpanel))
+8. rGitHub ([GitHub](https://github.com/selesnow/rGitHub))
 
 [↑ К содержанию](#содержание)
 
