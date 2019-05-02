@@ -162,14 +162,14 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 [↑ К содержанию](#содержание)
 
 ## Пакеты
-1. ryandexdirect ([CRAN](https://cran.r-project.org/package=ryandexdirect), [GitHub](https://github.com/selesnow/ryandexdirect))
-2. rfacebookstat ([CRAN](https://cran.r-project.org/package=rfacebookstat), [GitHub](https://github.com/selesnow/rfacebookstat))
-3. rmytarget ([CRAN](https://cran.r-project.org/package=rmytarget), [GitHub](https://github.com/selesnow/rmytarget), [GitLab](https://gitlab.com/selesnow/rmytarget))
-4. rym ([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))
-5. getProxy ([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))
-6. rvkstat ([GitHub](https://github.com/selesnow/rvkstat))
-7. rmixpanel ([GitHub](https://github.com/selesnow/rmixpanel))
-8. rGitHub ([GitHub](https://github.com/selesnow/rGitHub))
+1. ryandexdirect - Загрузка данных из API Яндекс.Директ в R, *([CRAN](https://cran.r-project.org/package=ryandexdirect), [GitHub](https://github.com/selesnow/ryandexdirect))*
+2. rfacebookstat - Загрузка данных из Facebook Marketing API в R, *([CRAN](https://cran.r-project.org/package=rfacebookstat), [GitHub](https://github.com/selesnow/rfacebookstat))*
+3. rmytarget - Загрузка данных из MyTarget API v2 в R, *([CRAN](https://cran.r-project.org/package=rmytarget), [GitHub](https://github.com/selesnow/rmytarget), [GitLab](https://gitlab.com/selesnow/rmytarget))*
+4. rym - Загрузка данных из API Яндекс.Метрики в R, *([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))*
+5. getProxy - Использование бесплатных прокси серверов в R сессии, *([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))*
+6. rvkstat - Загрузка данных из API Вконтакте в R, *([GitHub](https://github.com/selesnow/rvkstat))*
+7. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
+8. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 
 [↑ К содержанию](#содержание)
 
