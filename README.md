@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 2 мая 2019*
+*Дата последнего обновления: 23 мая 2019*
 
-![LastUpdate](https://img.shields.io/badge/update-2019--05--02-yellowgreen.svg)
+![LastUpdate](https://img.shields.io/badge/update-2019--05--23-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
