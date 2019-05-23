@@ -107,6 +107,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 88. [Сколько стоит клик в Казахстане — аналитика данных Google Ads и Яндекс.Директ за первый квартал 2019](https://netpeak.net/ru/blog/skol-ko-stoit-klik-v-kazakhstane-analitika-dannykh-google-ads-i-yandeks-direkt-za-pervyy-kvartal-2019/), Блог Netpeak, *апрель 2019*
 89. [Аналитический инструмент для Concert.ua — контролируем рекламные бюджеты сотен мероприятий в реальном времени](https://netpeak.net/ru/blog/analiticheskiy-instrument-dlya-concert-ua-kontroliruyem-reklamnyye-byudzhety-soten-meropriyatiy-v-real-nom-vremeni/), Блог Netpeak, *апрель 2019*
 90. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в первом квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-v-pervom-kvartale-2019-goda/), Блог Netpeak, *апрель 2019*
+91. [Сколько стоил клик в Google Ads и Facebook в Украине в первом квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-pervom-kvartale-2019-goda/), Блог Netpeak, *май 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -136,6 +137,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
 5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://netpeak.ua/education/speech/408/), Матемаркетинг, *ноябрь 2018*
 6. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
+7. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
