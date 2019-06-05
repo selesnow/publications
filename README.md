@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 23 мая 2019*
+*Дата последнего обновления: 5 июня 2019*
 
-![LastUpdate](https://img.shields.io/badge/update-2019--05--23-yellowgreen.svg)
+![LastUpdate](https://img.shields.io/badge/update-2019--06--05-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -109,6 +109,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 90. [Аналитический инструмент для Concert.ua — контролируем рекламные бюджеты сотен мероприятий в реальном времени](https://netpeak.net/ru/blog/analiticheskiy-instrument-dlya-concert-ua-kontroliruyem-reklamnyye-byudzhety-soten-meropriyatiy-v-real-nom-vremeni/), Блог Netpeak, *апрель 2019*
 91. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в первом квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-v-pervom-kvartale-2019-goda/), Блог Netpeak, *апрель 2019*
 92. [Сколько стоил клик в Google Ads и Facebook в Украине в первом квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-v-pervom-kvartale-2019-goda/), Блог Netpeak, *май 2019*
+93. [ООП в языке R (часть 1): S3 классы](https://habr.com/ru/post/453964/), Хабр, *июнь 2019*
 
 [↑ К содержанию](#содержание)
 
