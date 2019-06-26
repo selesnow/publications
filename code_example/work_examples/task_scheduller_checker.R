@@ -1,25 +1,25 @@
-# установка требуемых пакетов
+# СѓСЃС‚Р°РЅРѕРІРєР° С‚СЂРµР±СѓРµРјС‹С… РїР°РєРµС‚РѕРІ
 # install.packages("taskscheduleR")
 # install.packages("dplyr")
 # install.packages("htmlTable")
 # install.packages("stringr")
 # install.packages("readr")
 
-# подключение пакетов
-library(taskscheduleR) # загрузка списка задач
-library(dplyr)         # манипуляция с данными
-library(htmlTable)     # перевод дата фрейма в формат HTML таблицы
-library(mailR)         # отправка электронных писем
-library(stringr)       # работа со строками
-library(readr)         # преобразование даты
+# РїРѕРґРєР»СЋС‡РµРЅРёРµ РїР°РєРµС‚РѕРІ
+library(taskscheduleR) # Р·Р°РіСЂСѓР·РєР° СЃРїРёСЃРєР° Р·Р°РґР°С‡
+library(dplyr)         # РјР°РЅРёРїСѓР»СЏС†РёСЏ СЃ РґР°РЅРЅС‹РјРё
+library(htmlTable)     # РїРµСЂРµРІРѕРґ РґР°С‚Р° С„СЂРµР№РјР° РІ С„РѕСЂРјР°С‚ HTML С‚Р°Р±Р»РёС†С‹
+library(mailR)         # РѕС‚РїСЂР°РІРєР° СЌР»РµРєС‚СЂРѕРЅРЅС‹С… РїРёСЃРµРј
+library(stringr)       # СЂР°Р±РѕС‚Р° СЃРѕ СЃС‚СЂРѕРєР°РјРё
+library(readr)         # РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ РґР°С‚С‹
 
-# переменные 
-os_username    <- "имя пользователя" # имя пользоватя создавшего задачу в планировщике
-days_window    <- 3                  # количество дней за которые надо проверить список запускаемых задач
-email.username <- "petr@gmail.com"   # ваша gmail почта
-email.password <- "пароль от почты"  # пароль от почты
+# РїРµСЂРµРјРµРЅРЅС‹Рµ 
+os_username    <- "РёРјСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ" # РёРјСЏ РїРѕР»СЊР·РѕРІР°С‚СЏ СЃРѕР·РґР°РІС€РµРіРѕ Р·Р°РґР°С‡Сѓ РІ РїР»Р°РЅРёСЂРѕРІС‰РёРєРµ
+days_window    <- 3                  # РєРѕР»РёС‡РµСЃС‚РІРѕ РґРЅРµР№ Р·Р° РєРѕС‚РѕСЂС‹Рµ РЅР°РґРѕ РїСЂРѕРІРµСЂРёС‚СЊ СЃРїРёСЃРѕРє Р·Р°РїСѓСЃРєР°РµРјС‹С… Р·Р°РґР°С‡
+email.username <- "petr@gmail.com"   # РІР°С€Р° gmail РїРѕС‡С‚Р°
+email.password <- "РїР°СЂРѕР»СЊ РѕС‚ РїРѕС‡С‚С‹"  # РїР°СЂРѕР»СЊ РѕС‚ РїРѕС‡С‚С‹
 
-# запрашиваем список задач и фильтруем его
+# Р·Р°РїСЂР°С€РёРІР°РµРј СЃРїРёСЃРѕРє Р·Р°РґР°С‡ Рё С„РёР»СЊС‚СЂСѓРµРј РµРіРѕ
 task <- taskscheduler_ls() %>%
         mutate(`Last Run Time` = parse_datetime(`Last Run Time`, format = "%m/%d/%Y %I:%M:%S %p")) %>%
         filter(str_detect(string = tolower(Author), os_username) & 
@@ -29,10 +29,10 @@ task <- taskscheduler_ls() %>%
                Status != "Running") %>%
                unique()
 
-# проверяем есть ли задачи работа которых завершилась аварийно
+# РїСЂРѕРІРµСЂСЏРµРј РµСЃС‚СЊ Р»Рё Р·Р°РґР°С‡Рё СЂР°Р±РѕС‚Р° РєРѕС‚РѕСЂС‹С… Р·Р°РІРµСЂС€РёР»Р°СЃСЊ Р°РІР°СЂРёР№РЅРѕ
 if ( nrow(task) > 0 ) {
   
-  # Создаём HTML таблицу
+  # РЎРѕР·РґР°С‘Рј HTML С‚Р°Р±Р»РёС†Сѓ
   html_tab <- select(task,
                      TaskName,
                      `Last Run Time`,
@@ -40,10 +40,10 @@ if ( nrow(task) > 0 ) {
                      `Task To Run`) %>%
               htmlTable()
   
-  # отправляем письмо
+  # РѕС‚РїСЂР°РІР»СЏРµРј РїРёСЃСЊРјРѕ
   send.mail(from     = "Task Schedulet",
             to       = email.username, 
-            subject  = str_interp("Задачи которые завершились аварийно ${format.Date(Sys.Date(), '%d %B %Y')}"),
+            subject  = str_interp("Р—Р°РґР°С‡Рё РєРѕС‚РѕСЂС‹Рµ Р·Р°РІРµСЂС€РёР»РёСЃСЊ Р°РІР°СЂРёР№РЅРѕ ${format.Date(Sys.Date(), '%d %B %Y')}"),
             body     = html_tab,
             encoding = "utf-8",
             inline   = TRUE,
