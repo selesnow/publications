@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 29 июля 2019*
+*Дата последнего обновления: 13 августа 2019*
 
-![LastUpdate](https://img.shields.io/badge/lastUpdate-2019--07--29-yellowgreen.svg)
+![LastUpdate](https://img.shields.io/badge/update-2019--08--13-yellowgreen.svg)
 
 ## Содержание
 * [Статьи](#статьи)
@@ -112,6 +112,10 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 93. [ООП в языке R (часть 1): S3 классы](https://habr.com/ru/post/453964/), Хабр, *июнь 2019*
 94. [Сколько стоил клик в Google Ads и Яндекс.Директ в Казахстане во втором квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-kazakhstane-vo-vtorom-kvartale-2019-goda/), Блог Netpeak, *июль 2019*
 95. [Взаимодействие R с базами данных на примере Microsoft SQL Server и других СУБД](https://habr.com/post/461063/), Хабр, *июль 2019*
+96. [Сколько стоил клик в Google Ads и Facebook в Украине во втором квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-facebook-v-ukraine-vo-vtorom-kvartale-2019-goda/), Блог Netpeak, *июль 2019*
+97. [Сколько стоил клик в Google Ads и Яндекс.Директ в России во втором квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-vo-vtorom-kvartale-2019-goda/), Блог Netpeak, *август 2019*
+98. [Как мы запустили кастомный коннектор для загрузки данных из API Google Analytics в Microsoft SQL Server](https://netpeak.net/ru/blog/kak-my-zapustili-kastomnyy-konnektor-dlya-zagruzki-dannykh-iz-api-google-analytics-v-microsoft-sql-server/), Блог Netpeak, *август 2019*
+99. [Построение поведенческих воронок на языке R, на основе данных полученных из Logs API Яндекс.Метрики](https://habr.com/post/462279/), Хабр, *август 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -174,8 +178,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. rym - Загрузка данных из API Яндекс.Метрики в R, *([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))*
 5. getProxy - Использование бесплатных прокси серверов в R сессии, *([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))*
 6. rvkstat - Загрузка данных из API Вконтакте в R, *([CRAN](https://cran.r-project.org/package=rvkstat), [GitHub](https://github.com/selesnow/rvkstat))*
-7. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
-8. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
+7. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
+8. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
+9. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 
 [↑ К содержанию](#содержание)
 
