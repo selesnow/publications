@@ -1,8 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 13 августа 2019*
-
-![LastUpdate](https://img.shields.io/badge/update-2019--08--13-yellowgreen.svg)
+*Дата последнего обновления: 01 октября 2019*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -179,9 +177,10 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. rym - Загрузка данных из API Яндекс.Метрики в R, *([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))*
 5. getProxy - Использование бесплатных прокси серверов в R сессии, *([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))*
 6. rvkstat - Загрузка данных из API Вконтакте в R, *([CRAN](https://cran.r-project.org/package=rvkstat), [GitHub](https://github.com/selesnow/rvkstat))*
-7. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
-8. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
-9. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
+7. timeperiodsR - Упрощённое определение временных периодов, *([CRAN](https://cran.r-project.org/package=timeperiodsR), [GitHub](https://github.com/selesnow/timeperiodsR))*
+8. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
+9. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
+10. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 
 [↑ К содержанию](#содержание)
 
