@@ -158,15 +158,16 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Ресурсы
 1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
-2. [Data Club](https://vk.com/data_club) - группа вконтакте
-3. [alexeyseleznev.wordpress.com](https://alexeyseleznev.wordpress.com/) - личный блог
-4. [selesnow.github.io](https://selesnow.github.io) - сайт разработанных мной пакетов для языка R
-5. [github.com/selesnow](https://[github.com/selesnow) - мои проекты на GitHub
-6. [habr.com/users/selesnow/](https://habr.com/users/selesnow/) - профиль на Хабре
-7. [rdocumentation.org/collaborators/name/Alexey%20Seleznev](https://rdocumentation.org/collaborators/name/Alexey%20Seleznev) - страница на Rdocumentation
-8. [Профиль на блоге Netpeak](https://netpeak.net/ru/blog/user/publication/826/)
-9. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
-10. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
+2. [R Language Talks](https://www.facebook.com/groups/rtalks/) - группа в Facebook
+3. [Data Club](https://vk.com/data_club) - группа вконтакте
+4. [alexeyseleznev.wordpress.com](https://alexeyseleznev.wordpress.com/) - личный блог
+5. [selesnow.github.io](https://selesnow.github.io) - сайт разработанных мной пакетов для языка R
+6. [Профиль на GitHub](https://[github.com/selesnow) - мои проекты на GitHub
+7. [Профиль на Хабре](https://habr.com/users/selesnow/)
+8. [Rdocumentation.org](https://rdocumentation.org/collaborators/name/Alexey%20Seleznev) - страница на Rdocumentation
+9. [Профиль на блоге Netpeak](https://netpeak.net/ru/blog/user/publication/826/)
+10. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
+11. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
 
 [↑ К содержанию](#содержание)
 
