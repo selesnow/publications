@@ -114,6 +114,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 97. [Сколько стоил клик в Google Ads и Яндекс.Директ в России во втором квартале 2019 года](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-ads-i-yandeks-direkt-v-rossii-vo-vtorom-kvartale-2019-goda/), Блог Netpeak, *август 2019*
 98. [Как мы запустили кастомный коннектор для загрузки данных из API Google Analytics в Microsoft SQL Server](https://netpeak.net/ru/blog/kak-my-zapustili-kastomnyy-konnektor-dlya-zagruzki-dannykh-iz-api-google-analytics-v-microsoft-sql-server/), Блог Netpeak, *август 2019*
 99. [Построение поведенческих воронок на языке R, на основе данных полученных из Logs API Яндекс.Метрики](https://habr.com/post/462279/), Хабр, *август 2019*
+100. [Сколько стоил клик в Google Ads и Facebook в Украине в третьем квартале 2019 года](https://stats.netpeak.net/ukraine-iii-2019), Netpeak Stats, *октябрь 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -128,6 +129,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 8. [Зачем интернет-маркетологу язык R](https://www.comagic.ru/blog/posts/feb/zachem_internet_marketologu_yazyk_r/), CoMagic, *феварль 2019*
 9. [Тренды веб-аналитики 2019: ускоренные тестирования, борьба с дивергентностью и уважение к людям](https://www.seonews.ru/analytics/trendy-veb-analitiki-2019-uskorennye-testirovaniya-borba-s-divergentnostyu-i-uvazhenie-k-lyudyam/), SEOnews, *апрель 2019*
 10. [R, Python, JavaScript или… Excel? Что учить интернет-маркетологу для профессионального роста](https://www.comagic.ru/blog/posts/apr/r_python_javascript_ili_excel_chto_uchit_internet_marketologu_dlya_professionalnogo_rosta/), CoMagic, *апрель 2019*
+11. [Сквозная аналитика. Все ли понимают этот термин одинаково? | Часть 1. Аналитики](https://vc.ru/marketing/88194-skvoznaya-analitika-vse-li-ponimayut-etot-termin-odinakovo-chast-1-analitiki), vc.ru, *октябрь 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -145,6 +147,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом (Доклад)](https://youtu.be/G_JWto5eFpI), Матемаркетинг, *ноябрь 2018*
 7. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
 8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
+9. Работа с Facebook Marketing API на языке R, Analize! Lviv, *сентябрь 2019*
 
 [↑ К содержанию](#содержание)
 
