@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 01 октября 2019*
+*Дата последнего обновления: 27 ноября 2019*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -115,6 +115,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 98. [Как мы запустили кастомный коннектор для загрузки данных из API Google Analytics в Microsoft SQL Server](https://netpeak.net/ru/blog/kak-my-zapustili-kastomnyy-konnektor-dlya-zagruzki-dannykh-iz-api-google-analytics-v-microsoft-sql-server/), Блог Netpeak, *август 2019*
 99. [Построение поведенческих воронок на языке R, на основе данных полученных из Logs API Яндекс.Метрики](https://habr.com/post/462279/), Хабр, *август 2019*
 100. [Сколько стоил клик в Google Ads и Facebook в Украине в третьем квартале 2019 года](https://stats.netpeak.net/ukraine-iii-2019), Netpeak Stats, *октябрь 2019*
+101. [Работа с датами на языке R (базовые возможности, а также пакеты lubridate и timeperiodsR)](https://habr.com/post/469215/), Хабр, *ноябрь 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -147,7 +148,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом (Доклад)](https://youtu.be/G_JWto5eFpI), Матемаркетинг, *ноябрь 2018*
 7. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
 8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
-9. Работа с Facebook Marketing API на языке R, Analize! Lviv, *сентябрь 2019*
+9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
 
 [↑ К содержанию](#содержание)
 
