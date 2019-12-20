@@ -127,9 +127,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Видео мануал по работе с R пакетом timeperiodsR.](https://youtu.be/NgfWELbM6Fk), R4marketing, *декабрь 2019*
 3. [Как обновить язык R до актуальной версии (пакет installr)](https://youtu.be/H2CgzIIH0Ps), R4marketing, *декабрь 2019*
 4. [rfacebookstat - R пакет для работы с Facebook Marketing API (уроки)](https://www.youtube.com/playlist?list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R), R4marketing, *декабрь 2019*
-    4.1. [rfacebookstat #1  Простая авторизация в Facebook Marketing API](https://www.youtube.com/watch?v=SgcxDqZ-5Qg&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=2&t=1s)
-    4.2. [rfacebookstat #2  Авторизация в Facebook Marketing API через собственное приложение](https://www.youtube.com/watch?v=VLhsQDAyx5E&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=3&t=0s)
-    4.3. [rfacebookstat #3  Автоматическая авторизация файл .Renviron](https://www.youtube.com/watch?v=oZhV1U5fMZ0&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=4&t=0s)
+4.1. [rfacebookstat #1  Простая авторизация в Facebook Marketing API](https://www.youtube.com/watch?v=SgcxDqZ-5Qg&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=2&t=1s)
+4.2. [rfacebookstat #2  Авторизация в Facebook Marketing API через собственное приложение](https://www.youtube.com/watch?v=VLhsQDAyx5E&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=3&t=0s)
+4.3. [rfacebookstat #3  Автоматическая авторизация файл .Renviron](https://www.youtube.com/watch?v=oZhV1U5fMZ0&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=4&t=0s)
     4.4. [rfacebookstat #4  Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
     4.5. [rfacebookstat #5  Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
     4.6. [rfacebookstat #6  Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
