@@ -4,6 +4,7 @@
 
 ## Содержание
 * [Статьи](#статьи)
+* [Видео уроки](#видео уроки)
 * [Интервью](#интервью)
 * [Курсы](#курсы)
 * [Выступления](#выступления)
@@ -116,6 +117,22 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 99. [Построение поведенческих воронок на языке R, на основе данных полученных из Logs API Яндекс.Метрики](https://habr.com/post/462279/), Хабр, *август 2019*
 100. [Сколько стоил клик в Google Ads и Facebook в Украине в третьем квартале 2019 года](https://stats.netpeak.net/ukraine-iii-2019), Netpeak Stats, *октябрь 2019*
 101. [Работа с датами на языке R (базовые возможности, а также пакеты lubridate и timeperiodsR)](https://habr.com/post/469215/), Хабр, *ноябрь 2019*
+102. [Сколько стоил клик в Google Ads и Яндекс.Директ в Казахстане в третьем квартале 2019 года](https://stats.netpeak.net/page8566594.html), Netpeak Stats, *декабрь 2019*
+103. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в третьем квартале 2019 года](https://stats.netpeak.net/page8666074.html), Netpeak Stats, *декабрь 2019*
+
+[↑ К содержанию](#содержание)
+
+## Видео уроки
+1. [Пример работы с R пакетом getProxy](https://youtu.be/gZKw_laVxC4), R4marketing, *март 2019*
+2. [Видео мануал по работе с R пакетом timeperiodsR.](https://youtu.be/NgfWELbM6Fk), R4marketing, *декабрь 2019*
+3. [Как обновить язык R до актуальной версии (пакет installr)](https://youtu.be/H2CgzIIH0Ps), R4marketing, *декабрь 2019*
+4. [rfacebookstat - R пакет для работы с Facebook Marketing API (уроки)](https://www.youtube.com/playlist?list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R), R4marketing, *декабрь 2019*
+    4.1. [rfacebookstat #1  Простая авторизация в Facebook Marketing API](https://www.youtube.com/watch?v=SgcxDqZ-5Qg&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=2&t=1s)
+    4.2. [rfacebookstat #2  Авторизация в Facebook Marketing API через собственное приложение](https://www.youtube.com/watch?v=VLhsQDAyx5E&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=3&t=0s)
+    4.3. [rfacebookstat #3  Автоматическая авторизация файл .Renviron](https://www.youtube.com/watch?v=oZhV1U5fMZ0&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=4&t=0s)
+    4.4. [rfacebookstat #4  Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
+    4.5. [rfacebookstat #5  Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
+    4.6. [rfacebookstat #6  Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
 
 [↑ К содержанию](#содержание)
 
