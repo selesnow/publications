@@ -119,7 +119,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 101. [Работа с датами на языке R (базовые возможности, а также пакеты lubridate и timeperiodsR)](https://habr.com/post/469215/), Хабр, *ноябрь 2019*
 102. [Сколько стоил клик в Google Ads и Яндекс.Директ в Казахстане в третьем квартале 2019 года](https://stats.netpeak.net/page8566594.html), Netpeak Stats, *декабрь 2019*
 103. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в третьем квартале 2019 года](https://stats.netpeak.net/page8666074.html), Netpeak Stats, *декабрь 2019*
-104. [rfacebookstat 2.0.0 | Обзор релиза и 6 видео уроков по работе с Facebook Marketing API на языке R](https://alexeyseleznev.wordpress.com/2019/12/23/rfacebookstat-2-0-0-%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d1%80%d0%b5%d0%bb%d0%b8%d0%b7%d0%b0-%d0%b8-6-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d1%80%d0%be%d0%ba%d0%be%d0%b2-%d0%bf%d0%be-%d1%80%d0%b0%d0%b1/), Блог Алексея Селезнёва, *декабрь 2019*
+104. [rfacebookstat 2.0.0 - Обзор релиза и 6 видео уроков по работе с Facebook Marketing API на языке R](https://alexeyseleznev.wordpress.com/2019/12/23/rfacebookstat-2-0-0-%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d1%80%d0%b5%d0%bb%d0%b8%d0%b7%d0%b0-%d0%b8-6-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d1%80%d0%be%d0%ba%d0%be%d0%b2-%d0%bf%d0%be-%d1%80%d0%b0%d0%b1/), Блог Алексея Селезнёва, *декабрь 2019*
 
 [↑ К содержанию](#содержание)
 
