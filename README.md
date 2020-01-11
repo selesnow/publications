@@ -125,15 +125,21 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Видео уроки
 1. [Пример работы с R пакетом getProxy](https://youtu.be/gZKw_laVxC4), R4marketing, *март 2019*
-2. [Видео мануал по работе с R пакетом timeperiodsR.](https://youtu.be/NgfWELbM6Fk), R4marketing, *декабрь 2019*
+2. [timeperiodsR - R Пакет для упрощенного определения временных интервалов в R](https://www.youtube.com/playlist?list=PLD2LDq8edf4qed2KVKfXmKdh0OQcdj9gw) , R4marketing
+    1. [timeperiodsR #1 - Как получить начальную и конечную дату прошлого месяца на языке R](https://youtu.be/NgfWELbM6Fk), *декабрь 2019*
+    2. [timeperiodsR #2 - Как получить вектор будних и выходных дней](https://youtu.be/jwJA-fgQwoQ)
+    3. [timeperiodsR #3 - Получить официальные выходные и рабочие дни в странах СНГ](https://youtu.be/meYb5LRV3k8)
+    4. [timeperiodsR #4 - Расширения класса tpr с помощью переменных среды](https://youtu.be/W-rUYf3AHqA)
+    5. [timeperiodsR #5 - Пользовательский список выходных дней в R](https://youtu.be/c_WQmN6yBl0)
+    6. [timeperiodsR #6 - Проверка наличия данных в БД за определённый период](https://youtu.be/UMQ_S5w-T9c)
 3. [Как обновить язык R до актуальной версии (пакет installr)](https://youtu.be/H2CgzIIH0Ps), R4marketing, *декабрь 2019*
 4. [rfacebookstat - R пакет для работы с Facebook Marketing API (уроки)](https://www.youtube.com/playlist?list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R), R4marketing, *декабрь 2019*
-    1. [rfacebookstat #1  Простая авторизация в Facebook Marketing API](https://www.youtube.com/watch?v=SgcxDqZ-5Qg&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=2&t=1s)
-    2. [rfacebookstat #2  Авторизация в Facebook Marketing API через собственное приложение](https://www.youtube.com/watch?v=VLhsQDAyx5E&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=3&t=0s)
-    3. [rfacebookstat #3  Автоматическая авторизация файл .Renviron](https://www.youtube.com/watch?v=oZhV1U5fMZ0&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=4&t=0s)
-    4. [rfacebookstat #4  Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
-    5. [rfacebookstat #5  Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
-    6. [rfacebookstat #6  Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
+    1. [rfacebookstat #1 - Простая авторизация в Facebook Marketing API](https://www.youtube.com/watch?v=SgcxDqZ-5Qg&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=2&t=1s)
+    2. [rfacebookstat #2 - Авторизация в Facebook Marketing API через собственное приложение](https://www.youtube.com/watch?v=VLhsQDAyx5E&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=3&t=0s)
+    3. [rfacebookstat #3 - Автоматическая авторизация файл .Renviron](https://www.youtube.com/watch?v=oZhV1U5fMZ0&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=4&t=0s)
+    4. [rfacebookstat #4 - Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
+    5. [rfacebookstat #5 - Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
+    6. [rfacebookstat #6 - Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
 
 [↑ К содержанию](#содержание)
 
