@@ -187,7 +187,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Ресурсы
 1. [R4marketing](https://t.me/R4marketing) - телеграмм канал
-2. [R4marketing](https://www.youtube.com/channel/UCyHC6R3mCCP8bhD9tPbjnzQ/?sub_confirmation=1) - YouTube канал
+2. [R4marketing](https://www.youtube.com/R4marketing/?sub_confirmation=1) - YouTube канал
 2. [R Language Talks](https://www.facebook.com/groups/rtalks/) - группа в Facebook
 3. [Data Club](https://vk.com/data_club) - группа вконтакте
 4. [alexeyseleznev.wordpress.com](https://alexeyseleznev.wordpress.com/) - личный блог
