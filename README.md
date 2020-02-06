@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 23 декабря 2019*
+*Дата последнего обновления: 6 февраля 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -120,6 +120,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 102. [Сколько стоил клик в Google Ads и Яндекс.Директ в Казахстане в третьем квартале 2019 года](https://stats.netpeak.net/page8566594.html), Netpeak Stats, *декабрь 2019*
 103. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в третьем квартале 2019 года](https://stats.netpeak.net/page8666074.html), Netpeak Stats, *декабрь 2019*
 104. [rfacebookstat 2.0.0 - Обзор релиза и 6 видео уроков по работе с Facebook Marketing API на языке R](https://alexeyseleznev.wordpress.com/2019/12/23/rfacebookstat-2-0-0-%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d1%80%d0%b5%d0%bb%d0%b8%d0%b7%d0%b0-%d0%b8-6-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d1%80%d0%be%d0%ba%d0%be%d0%b2-%d0%bf%d0%be-%d1%80%d0%b0%d0%b1/), Блог Алексея Селезнёва, *декабрь 2019*
+105. [Как загрузить данные из API Google Analytics в R: часть 2](https://netpeak.net/ru/blog/kak-zagruzit-dannyye-iz-api-google-analytics-v-r-chast-2/), Блог Netpeak, *февраль 2020*
 
 [↑ К содержанию](#содержание)
 
