@@ -5,39 +5,39 @@ devtools::install_github("tidyverse/googlesheets4")
 # lib
 library(googlesheets4)
 
-# авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёСЏ
 sheets_auth(email = "selesnow@gmail.com")
 
-# данные для теста
+# РґР°РЅРЅС‹Рµ РґР»СЏ С‚РµСЃС‚Р°
 my_iris   <- iris
 my_mtcars <- mtcars
 
-# создаём докс
+# СЃРѕР·РґР°С‘Рј РґРѕРєСЃ
 ss <- sheets_create("demo_dox", 
                     sheets = list(iris   = head(my_iris), 
                                   mtcars = my_mtcars))
-# открыть созданный Google Dox
+# РѕС‚РєСЂС‹С‚СЊ СЃРѕР·РґР°РЅРЅС‹Р№ Google Dox
 sheets_browse(ss)
 
-# создать новый лист
+# СЃРѕР·РґР°С‚СЊ РЅРѕРІС‹Р№ Р»РёСЃС‚
 sheets_sheet_add(ss, 
                  sheet = "mtcars_new", 
                  .after = "mtcars")
 
-# запись данных на новый лист
+# Р·Р°РїРёСЃСЊ РґР°РЅРЅС‹С… РЅР° РЅРѕРІС‹Р№ Р»РёСЃС‚
 sheets_write(data = my_iris,
              ss = ss, 
              sheet = "iris_new")
 
-# дописать значиения
+# РґРѕРїРёСЃР°С‚СЊ Р·РЅР°С‡РёРµРЅРёСЏ
 sheets_append(data  = tail(my_iris, 20),
               ss    = ss, 
               sheet = "iris")
 
-# получить список листок google таблицы
+# РїРѕР»СѓС‡РёС‚СЊ СЃРїРёСЃРѕРє Р»РёСЃС‚РѕРє google С‚Р°Р±Р»РёС†С‹
 sheets_sheet_names(ss)
 
-# чтение листа из гугл таблиц
+# С‡С‚РµРЅРёРµ Р»РёСЃС‚Р° РёР· РіСѓРіР» С‚Р°Р±Р»РёС†
 ss2 <- as_sheets_id("17dRz4AYgfQvpTI6J6p9AYjrVuC-gTRj7BM4MzgAxIKY")
 
 data <- sheets_read(ss2, 
