@@ -121,6 +121,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 103. [Сколько стоил клик в Google Ads и Яндекс.Директ в России в третьем квартале 2019 года](https://stats.netpeak.net/page8666074.html), Netpeak Stats, *декабрь 2019*
 104. [rfacebookstat 2.0.0 - Обзор релиза и 6 видео уроков по работе с Facebook Marketing API на языке R](https://alexeyseleznev.wordpress.com/2019/12/23/rfacebookstat-2-0-0-%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d1%80%d0%b5%d0%bb%d0%b8%d0%b7%d0%b0-%d0%b8-6-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d1%80%d0%be%d0%ba%d0%be%d0%b2-%d0%bf%d0%be-%d1%80%d0%b0%d0%b1/), Блог Алексея Селезнёва, *декабрь 2019*
 105. [Как загрузить данные из API Google Analytics в R: часть 2](https://netpeak.net/ru/blog/kak-zagruzit-dannyye-iz-api-google-analytics-v-r-chast-2/), Блог Netpeak, *февраль 2020*
+106. [Как работать с API Google Таблиц (Google Sheets API v4) на языке R с помощью нового пакета googlesheets4](https://habr.com/post/488756/), Хабр, *февраль 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -141,6 +142,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     4. [rfacebookstat #4 - Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
     5. [rfacebookstat #5 - Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
     6. [rfacebookstat #6 - Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
+5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
 
 [↑ К содержанию](#содержание)
 
