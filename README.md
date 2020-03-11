@@ -142,6 +142,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     4. [rfacebookstat #4 - Автоматическая авторизация и создание переменных среды на Windows](https://www.youtube.com/watch?v=zoNvu2T6IFc&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=5&t=32s)
     5. [rfacebookstat #5 - Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
     6. [rfacebookstat #6 - Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
+    7. [rfacebookstat #7 - Как загрузить статистику рекламных аккаунтов из Facebook в Power BI (язык R)](https://www.youtube.com/watch?v=WuOw33JjvGM)
 5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
 
 [↑ К содержанию](#содержание)
