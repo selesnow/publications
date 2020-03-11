@@ -215,6 +215,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 8. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
 9. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
 10. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
+11. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
 
 [↑ К содержанию](#содержание)
 
