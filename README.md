@@ -122,6 +122,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 104. [rfacebookstat 2.0.0 - Обзор релиза и 6 видео уроков по работе с Facebook Marketing API на языке R](https://alexeyseleznev.wordpress.com/2019/12/23/rfacebookstat-2-0-0-%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d1%80%d0%b5%d0%bb%d0%b8%d0%b7%d0%b0-%d0%b8-6-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%83%d1%80%d0%be%d0%ba%d0%be%d0%b2-%d0%bf%d0%be-%d1%80%d0%b0%d0%b1/), Блог Алексея Селезнёва, *декабрь 2019*
 105. [Как загрузить данные из API Google Analytics в R: часть 2](https://netpeak.net/ru/blog/kak-zagruzit-dannyye-iz-api-google-analytics-v-r-chast-2/), Блог Netpeak, *февраль 2020*
 106. [Как работать с API Google Таблиц (Google Sheets API v4) на языке R с помощью нового пакета googlesheets4](https://habr.com/post/488756/), Хабр, *февраль 2020*
+107. [Какой язык выбрать для работы с данными R или Python? Оба! Мигрируем с pandas на tidyverse и data.table и обратно](https://habr.com/ru/post/475210/), Хабр, *март 2020*
 
 [↑ К содержанию](#содержание)
 
