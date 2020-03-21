@@ -1,12 +1,12 @@
-# подключение пакетов
+# РїРѕРґРєР»СЋС‡РµРЅРёРµ РїР°РєРµС‚РѕРІ
 library(vroom)
 library(dplyr)
 
-# загрузка данных
+# Р·Р°РіСЂСѓР·РєР° РґР°РЅРЅС‹С…
 ga_data <- vroom("https://raw.githubusercontent.com/selesnow/publications/master/code_example/from_excel_to_r/lesson_3/ga_nowember.csv")
 
 # mutate
-# добавляем новый столбец
+# РґРѕР±Р°РІР»В¤РµРј РЅРѕРІС‹Р№ СЃС‚РѕР»Р±РµС†
 ga_data <- mutate(ga_data,
                   bounce_rate = bounces / sessions)
 
@@ -14,19 +14,19 @@ ga_data <- mutate(ga_data,
                   bounce_rate = bounces / sessions,
                   br_group    = if_else(bounce_rate > 0.6, "high_br", "normal_br"))
 
-# применяем преобразование к уже существующим столбцам
+# РїСЂРёРјРµРЅВ¤РµРј РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ Рє СѓР¶Рµ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј СЃС‚РѕР»Р±С†Р°Рј
 ga_data %>% mutate_if(is.character, toupper)
 
-# преобразуем значения существующих столбцов применяя регулярные выражения
+# РїСЂРµРѕР±СЂР°Р·СѓРµРј Р·РЅР°С‡РµРЅРёВ¤ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёС… СЃС‚РѕР»Р±С†РѕРІ РїСЂРёРјРµРЅВ¤В¤ СЂРµРіСѓР»В¤СЂРЅС‹Рµ РІС‹СЂР°Р¶РµРЅРёВ¤
 ga_data %>% mutate_at(vars(matches("s$")), sqrt )
 
 # transemute
-# убираем все столбцы кроме преобразованных
+# СѓР±РёСЂР°РµРј РІСЃРµ СЃС‚РѕР»Р±С†С‹ РєСЂРѕРјРµ РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРЅС‹С…
 transmute(ga_data,
           bounce_rate = bounces / sessions,
           date        = format(date, "%d %B %Y"),
           source)
 
-# преобразовываем столбцы по их признаку и удаляем все остальные
+# РїСЂРµРѕР±СЂР°Р·РѕРІС‹РІР°РµРј СЃС‚РѕР»Р±С†С‹ РїРѕ РёС… РїСЂРёР·РЅР°РєСѓ Рё СѓРґР°Р»В¤РµРј РІСЃРµ РѕСЃС‚Р°Р»СЊРЅС‹Рµ
 transmute_if(ga_data, 
              is.character, toupper)
