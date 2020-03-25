@@ -13,7 +13,7 @@ download.file("https://github.com/selesnow/publications/blob/master/code_example
               mode = "wb")
 
 # считываем листы
-sheets <- readxl::excel_sheets("salary.xlsx")
+sheets <- excel_sheets("salary.xlsx")
 
 # считываем книгу
 excel_book <- sapply( sheets, 
@@ -43,7 +43,7 @@ staff_bonuses <- bind_rows(excel_book[["bonus_jan"]],
                  group_by(employee_id, month) %>%
                  summarise_at("bonus", sum)
                 
-# объединяем бонусы
+# объединяем штрафы
 staff_payroll <- bind_rows(excel_book[["payroll_jan"]], 
                            excel_book[["payroll_feb"]]) %>%
                  mutate(month = format(date, "%Y.%m")) %>%
@@ -59,7 +59,7 @@ salary_analysis <- left_join(staff_salary, staff_bonuses,
                              by = c("id" = "employee_id", "month")) %>%
                    rename(payroll = sum) %>%
                    mutate_at(c("bonus", "payroll"), replace_na, 0) %>%
-                   mutate(total = rate + bonus + payroll)
+                   mutate(total = rate + bonus - payroll)
 
 # добавим данные об отделе
 salary_analysis <- left_join(salary_analysis, excel_book[['departmen']],
