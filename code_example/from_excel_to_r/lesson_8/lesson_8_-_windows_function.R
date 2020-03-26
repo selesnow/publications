@@ -1,8 +1,6 @@
 library(readr)
 library(dplyr)
 
-http://biostat-r.blogspot.com/2015/08/dplyr-window-functions-and-grouped.html
-
 # загрузка данных
 salary <- read_csv("D:\\Google Диск\\Курс 20 шагов от Excel до языка R\\materials\\lesson_8\\salary_analysis.csv")
 
