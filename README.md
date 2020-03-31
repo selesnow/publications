@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 16 марта 2020*
+*Дата последнего обновления: 30 марта 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -123,6 +123,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 105. [Как загрузить данные из API Google Analytics в R: часть 2](https://netpeak.net/ru/blog/kak-zagruzit-dannyye-iz-api-google-analytics-v-r-chast-2/), Блог Netpeak, *февраль 2020*
 106. [Как работать с API Google Таблиц (Google Sheets API v4) на языке R с помощью нового пакета googlesheets4](https://habr.com/post/488756/), Хабр, *февраль 2020*
 107. [Какой язык выбрать для работы с данными R или Python? Оба! Мигрируем с pandas на tidyverse и data.table и обратно](https://habr.com/ru/post/475210/), Хабр, *март 2020*
+108. [Разворачиваем вложенные столбцы — списки с помощью языка R (пакет tidyr)](https://habr.com/ru/post/491726/), Хабр, *март 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -145,6 +146,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     6. [rfacebookstat #6 - Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
     7. [rfacebookstat #7 - Как загрузить статистику рекламных аккаунтов из Facebook в Power BI (язык R)](https://www.youtube.com/watch?v=WuOw33JjvGM)
 5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
+6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
+    1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
+    2. [Язык R для пользователей Excel #2: Структуры данных в R](https://youtu.be/GwqoGHa8wjQ), *март 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -165,6 +169,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
+2. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing
 
 [↑ К содержанию](#содержание)
 
