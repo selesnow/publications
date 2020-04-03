@@ -57,12 +57,21 @@ starwars %>%
 # Чем accross лучше предыдущих функций с суфиксами _at, _if, _all
 
 ## 1. accross позволяет комбинировать различные вычисления внутри одной summarise 
+## пример из статьи
 df %>%
   group_by(g1, g2) %>% 
   summarise(
     across(is.numeric, mean), 
-    across(is.character, nlevels),
+    across(is.factor, nlevels),
     n = n(), 
+  )
+
+## рабочий пример
+starwars %>% 
+  group_by(species) %>% 
+  summarise(across(is.character, n_distinct), 
+            across(is.numeric, mean), 
+            n = n()
   )
 
 ## 2. уменьшает количество необходимых функций в dplyr, что облегчает их запоминание
