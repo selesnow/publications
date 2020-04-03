@@ -2,8 +2,8 @@
 library(dplyr, warn.conflicts = FALSE)
 
 # тестовый дата фрейм
-df <- tibble(g1 = letters[1:10],
-             g2 = LETTERS[1:10],
+df <- tibble(g1 = as.factor(sample(letters[1:4],size = 10, replace = T )),
+             g2 = as.factor(sample(LETTERS[1:3],size = 10, replace = T )),
              a  = runif(10, 1, 10),
              b  = runif(10, 10, 20),
              c  = runif(10, 15, 30),
@@ -71,6 +71,7 @@ starwars %>%
   group_by(species) %>% 
   summarise(across(is.character, n_distinct), 
             across(is.numeric, mean), 
+            across(is.list, length), 
             n = n()
   )
 
