@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 30 марта 2020*
+*Дата последнего обновления: 6 апреля 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -149,6 +149,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
     2. [Язык R для пользователей Excel #2: Структуры данных в R](https://youtu.be/GwqoGHa8wjQ), *март 2020*
+    3. [Язык R для пользователей Excel #2: Загрузка данных из csv. tsv, excel файлов и Google таблиц в R](https://youtu.be/vVFFtgcBp-w), *апрель 2020*
+7. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
