@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 6 апреля 2020*
+*Дата последнего обновления: 15 апреля 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -124,6 +124,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 106. [Как работать с API Google Таблиц (Google Sheets API v4) на языке R с помощью нового пакета googlesheets4](https://habr.com/post/488756/), Хабр, *февраль 2020*
 107. [Какой язык выбрать для работы с данными R или Python? Оба! Мигрируем с pandas на tidyverse и data.table и обратно](https://habr.com/ru/post/475210/), Хабр, *март 2020*
 108. [Разворачиваем вложенные столбцы — списки с помощью языка R (пакет tidyr)](https://habr.com/ru/post/491726/), Хабр, *март 2020*
+109. [Бесплатный видеокурс «Язык R для пользователей Excel»](https://proglib.io/p/besplatnyy-videokurs-yazyk-r-dlya-polzovateley-excel-2020-04-14), proglib, *апрель 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -150,7 +151,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
     2. [Язык R для пользователей Excel #2: Структуры данных в R](https://youtu.be/GwqoGHa8wjQ), *март 2020*
     3. [Язык R для пользователей Excel #2: Загрузка данных из csv. tsv, excel файлов и Google таблиц в R](https://youtu.be/vVFFtgcBp-w), *апрель 2020*
-7. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2019*
+7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2019*
+    1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2019*
+    2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
