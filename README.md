@@ -12,6 +12,7 @@
 * [Ресурсы](#ресурсы)
 * [Пакеты](#пакеты)
 * [Книги](#книги)
+* [Поддержать проект](#поддержать-проект)
 
 ## Статьи
 1. [Когортный анализ в Google Analytics: пошаговая инструкция](https://netpeak.net/ru/blog/kogortniy-analiz-v-google-analytics-poshagovaya-instruktsiya/), Блог Netpeak, *сентябрь 2015*
@@ -233,5 +234,10 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
 2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/)
+
+[↑ К содержанию](#содержание)
+
+## Поддержать проект
+Вы можете поддержать проект любой произвольной суммой перейдя по этой [ссылке](https://secure.wayforpay.com/button/b6dd4a7083fe0).
 
 [↑ К содержанию](#содержание)
