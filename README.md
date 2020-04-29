@@ -126,6 +126,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 107. [Какой язык выбрать для работы с данными R или Python? Оба! Мигрируем с pandas на tidyverse и data.table и обратно](https://habr.com/ru/post/475210/), Хабр, *март 2020*
 108. [Разворачиваем вложенные столбцы — списки с помощью языка R (пакет tidyr)](https://habr.com/ru/post/491726/), Хабр, *март 2020*
 109. [Бесплатный видеокурс «Язык R для пользователей Excel»](https://proglib.io/p/besplatnyy-videokurs-yazyk-r-dlya-polzovateley-excel-2020-04-14), proglib, *апрель 2020*
+110. [Сколько стоил клик в Google Ads в Украине в первом квартале 2020 года — анализ Netpeak](https://delo.ua/business/skolko-stoil-klik-v-google-ads-v-ukraine-v-perv-367949/), delo.ua, *апрель 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -152,9 +153,13 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
     2. [Язык R для пользователей Excel #2: Структуры данных в R](https://youtu.be/GwqoGHa8wjQ), *март 2020*
     3. [Язык R для пользователей Excel #2: Загрузка данных из csv. tsv, excel файлов и Google таблиц в R](https://youtu.be/vVFFtgcBp-w), *апрель 2020*
+    4. [Язык R для пользователей Excel #4: Фильтрация строк, выбор и переименование столбцов, пайпланы в R](https://youtu.be/uI0fc3foQQE), *апрель 2020*
+    5. [Язык R для пользователей Excel #5: Добавление вычисляемых столбцов в таблицу на языке R](https://youtu.be/lYYOKPcJ6Gc), *апрель 2020*
+    6. [Язык R для пользователей Excel #6: Группировка и агрегация данных на языке R](https://youtu.be/7zyL5apWm1M), *апрель 2020*
 7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2019*
     1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2019*
     2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2019*
+    3. [Обзор релиза dplyr 1.0.0: перебор строк функцией rowwise()](https://youtu.be/b23WR3vEGJc), R4marketing, *апрель 2019*
 
 [↑ К содержанию](#содержание)
 
@@ -170,6 +175,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [Тренды веб-аналитики 2019: ускоренные тестирования, борьба с дивергентностью и уважение к людям](https://www.seonews.ru/analytics/trendy-veb-analitiki-2019-uskorennye-testirovaniya-borba-s-divergentnostyu-i-uvazhenie-k-lyudyam/), SEOnews, *апрель 2019*
 10. [R, Python, JavaScript или… Excel? Что учить интернет-маркетологу для профессионального роста](https://www.comagic.ru/blog/posts/apr/r_python_javascript_ili_excel_chto_uchit_internet_marketologu_dlya_professionalnogo_rosta/), CoMagic, *апрель 2019*
 11. [Сквозная аналитика. Все ли понимают этот термин одинаково? | Часть 1. Аналитики](https://vc.ru/marketing/88194-skvoznaya-analitika-vse-li-ponimayut-etot-termin-odinakovo-chast-1-analitiki), vc.ru, *октябрь 2019*
+12. [Как создать личный бренд в компании — кейс Алексея Селезнёва, руководителя отдела аналитики Netpeak](https://netpeak.net/ru/blog/kak-sozdat-lichnyy-brend-v-kompanii-keys-alekseya-selezneva-rukovoditelya-otdela-analitiki-netpeak/), Блог Netpeak, *апрель 2020*
 
 [↑ К содержанию](#содержание)
 
