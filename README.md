@@ -127,6 +127,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 108. [Разворачиваем вложенные столбцы — списки с помощью языка R (пакет tidyr)](https://habr.com/ru/post/491726/), Хабр, *март 2020*
 109. [Бесплатный видеокурс «Язык R для пользователей Excel»](https://proglib.io/p/besplatnyy-videokurs-yazyk-r-dlya-polzovateley-excel-2020-04-14), proglib, *апрель 2020*
 110. [Сколько стоил клик в Google Ads в Украине в первом квартале 2020 года — анализ Netpeak](https://delo.ua/business/skolko-stoil-klik-v-google-ads-v-ukraine-v-perv-367949/), delo.ua, *апрель 2020*
+111. [Python: Как создать оформленную HTML таблицу из pandas DataFrame](https://alexeyseleznev.wordpress.com/2020/04/30/python-%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d1%82%d1%8c-%d0%be%d1%84%d0%be%d1%80%d0%bc%d0%bb%d0%b5%d0%bd%d0%bd%d1%83%d1%8e-html-%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d1%83-%d0%b8%d0%b7-pa/#more-1343), Блог Алексея Селезнёва, *апрель 2020*
 
 [↑ К содержанию](#содержание)
 
