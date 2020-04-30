@@ -1,66 +1,66 @@
 #devtools::install_github('selesnow/ryandexdirect')
 library(ryandexdirect)
 library(dplyr)
-# авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёСЏ
 #yadirAuth('selesnow')
 
-# простой запрос
-## запрашиваем простой отчёт из wordstat
-s_ws_rep <- yadirGetWordStatReport(c('купить смартфон',
-                                     'купить сотовый телефон',
-                                     'купить мобильный'),
+# РїСЂРѕСЃС‚РѕР№ Р·Р°РїСЂРѕСЃ
+## Р·Р°РїСЂР°С€РёРІР°РµРј РїСЂРѕСЃС‚РѕР№ РѕС‚С‡С‘С‚ РёР· wordstat
+s_ws_rep <- yadirGetWordStatReport(c('РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ',
+                                     'РєСѓРїРёС‚СЊ СЃРѕС‚РѕРІС‹Р№ С‚РµР»РµС„РѕРЅ',
+                                     'РєСѓРїРёС‚СЊ РјРѕР±РёР»СЊРЅС‹Р№'),
                                    Login = "selesnow")
 
-## что искали со словом купить смартфон
+## С‡С‚Рѕ РёСЃРєР°Р»Рё СЃРѕ СЃР»РѕРІРѕРј РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 s_ws_rep$SearchedWith
 
-## запросы похожие на купить смартфон
+## Р·Р°РїСЂРѕСЃС‹ РїРѕС…РѕР¶РёРµ РЅР° РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 s_ws_rep$SearchedAlso
 
 # #########################################
-# запрос с минус словами
-minus_ws_rep <- yadirGetWordStatReport(c('купить смартфон -xiaomi', 'самсунг -(серого цвета)'),
+# Р·Р°РїСЂРѕСЃ СЃ РјРёРЅСѓСЃ СЃР»РѕРІР°РјРё
+minus_ws_rep <- yadirGetWordStatReport(c('РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ -xiaomi', 'СЃР°РјСЃСѓРЅРі -(СЃРµСЂРѕРіРѕ С†РІРµС‚Р°)'),
                                        Login = "selesnow")
 
-## что искали со словом купить смартфон
+## С‡С‚Рѕ РёСЃРєР°Р»Рё СЃРѕ СЃР»РѕРІРѕРј РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 minus_ws_rep$SearchedWith
 
-## запросы похожие на купить смартфон
+## Р·Р°РїСЂРѕСЃС‹ РїРѕС…РѕР¶РёРµ РЅР° РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 minus_ws_rep$SearchedAlso
 
 # #########################################
-# запрос с минус словами
-minus_ws_rep <- yadirGetWordStatReport('пух -винни',
+# Р·Р°РїСЂРѕСЃ СЃ РјРёРЅСѓСЃ СЃР»РѕРІР°РјРё
+minus_ws_rep <- yadirGetWordStatReport('РїСѓС… -РІРёРЅРЅРё',
                                        Login = "selesnow")
 
-## что искали со словом купить смартфон
+## С‡С‚Рѕ РёСЃРєР°Р»Рё СЃРѕ СЃР»РѕРІРѕРј РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 minus_ws_rep$SearchedWith
 
-## запросы похожие на купить смартфон
+## Р·Р°РїСЂРѕСЃС‹ РїРѕС…РѕР¶РёРµ РЅР° РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ
 minus_ws_rep$SearchedAlso
 
 # #########################################
-# Запрос с указанием регионов
+# Р—Р°РїСЂРѕСЃ СЃ СѓРєР°Р·Р°РЅРёРµРј СЂРµРіРёРѕРЅРѕРІ
 regions <- yadirGetDictionary(Login = "selesnow")
 
 
 plus_regions <- regions %>%
-  filter(GeoRegionName %in% c("Россия"))
+  filter(GeoRegionName %in% c("Р РѕСЃСЃРёСЏ"))
 
 minus_regions <- regions %>%
-                  filter(GeoRegionName %in% c("Москва",
-                                              "Санкт-Петербург",
-                                              "Екатеринбург",
-                                              "Владивосток")) %>%
+                  filter(GeoRegionName %in% c("РњРѕСЃРєРІР°",
+                                              "РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі",
+                                              "Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
+                                              "Р’Р»Р°РґРёРІРѕСЃС‚РѕРє")) %>%
                   mutate(GeoRegionId = paste0("-", GeoRegionId))
 
 
 
-reg_ws <- yadirGetWordStatReport(Phrases = c('купить смартфон -xiaomi', 
-                                             'купить xiaomi'),
+reg_ws <- yadirGetWordStatReport(Phrases = c('РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ -xiaomi', 
+                                             'РєСѓРїРёС‚СЊ xiaomi'),
                                  GeoID   = c(plus_regions$GeoRegionId, minus_regions$GeoRegionId),
                                  Login   = "selesnow")
-# посмотреть отчёты
+# РїРѕСЃРјРѕС‚СЂРµС‚СЊ РѕС‚С‡С‘С‚С‹
 reg_ws$SearchedWith
 reg_ws$SearchedAlso
 
@@ -69,27 +69,27 @@ regions <- yadirGetDictionary(Login = "selesnow")
 
 
 plus_regions <- regions %>%
-  filter(GeoRegionName %in% c("Россия"))
+  filter(GeoRegionName %in% c("Р РѕСЃСЃРёСЏ"))
 
 minus_regions <- regions %>%
-  filter(GeoRegionName %in% c("Москва",
-                              "Санкт-Петербург",
-                              "Екатеринбург",
-                              "Владивосток")) %>%
+  filter(GeoRegionName %in% c("РњРѕСЃРєРІР°",
+                              "РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі",
+                              "Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
+                              "Р’Р»Р°РґРёРІРѕСЃС‚РѕРє")) %>%
   mutate(GeoRegionId = paste0("-", GeoRegionId))
 
-forecast <- yadirGetForecast(Phrases = c('купить смартфон -xiaomi', 
-                                         'купить xiaomi',
-                                         'самсунг -(серого цвета)'),
+forecast <- yadirGetForecast(Phrases = c('РєСѓРїРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ -xiaomi', 
+                                         'РєСѓРїРёС‚СЊ xiaomi',
+                                         'СЃР°РјСЃСѓРЅРі -(СЃРµСЂРѕРіРѕ С†РІРµС‚Р°)'),
                              GeoID   = c(plus_regions$GeoRegionId, minus_regions$GeoRegionId),
                              AuctionBids = 'Yes',
                              Login   = "selesnow")
 
-# прогноз в разрезе ключевых фраз
+# РїСЂРѕРіРЅРѕР· РІ СЂР°Р·СЂРµР·Рµ РєР»СЋС‡РµРІС‹С… С„СЂР°Р·
 forecast$PhrasesForecast
 
-# общий прогноз
+# РѕР±С‰РёР№ РїСЂРѕРіРЅРѕР·
 forecast$CommonForecast
 
-# подробная виньетка
+# РїРѕРґСЂРѕР±РЅР°СЏ РІРёРЅСЊРµС‚РєР°
 vignette('yandex-direct-keyword-bids', 'ryandexdirect')
