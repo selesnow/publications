@@ -57,7 +57,7 @@ quibble2 <- function(x, q = c(0.25, 0.5, 0.75)) {
 
 df %>% 
   group_by(grp) %>% 
-  summarise(quibble2(y, c(0.25, 0.5, 0.75)))
+  summarise(quibble2(x, c(0.25, 0.5, 0.75)))
 
 
 # мы не присваивали имена новых столбцов внутри summarise
@@ -65,7 +65,7 @@ df %>%
 # мы получим вложенные дата фреймы
 out <- df %>% 
   group_by(grp) %>% 
-  summarise(y = quibble2(y, c(0.25, 0.75)))
+  summarise(quantile = quibble2(y, c(0.25, 0.75)))
 
 str(out)
 
@@ -74,7 +74,7 @@ out$y
 
 # или к его столбцам
 # по смыслу такая конструкция напоминает объяденённые имена стобцов в электронных таблицах
-out$y$y
+out$quantile$y_q
 
 # summarise + rowwise
 # эта комбинация функций теперь может заменить purrr и apply
