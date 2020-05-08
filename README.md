@@ -207,6 +207,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
 3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
 4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://netology.ru/free-lessons/skolko-deneg-prinosit-vash-kontent-razbiraemsya-s-pomoshchyu-business-intelligence#/features), Нетология, *февраль 2019*
+5. [R meetup: Чем нас порадует dplyr 1.0.0](https://youtu.be/zWGocRhDumk), Европейский Университет в СПб, *апрель 2020*
 
 [↑ К содержанию](#содержание)
 
