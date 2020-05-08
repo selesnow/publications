@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 30 апреля 2020*
+*Дата последнего обновления: 08 мая 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -128,6 +128,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 109. [Бесплатный видеокурс «Язык R для пользователей Excel»](https://proglib.io/p/besplatnyy-videokurs-yazyk-r-dlya-polzovateley-excel-2020-04-14), proglib, *апрель 2020*
 110. [Сколько стоил клик в Google Ads в Украине в первом квартале 2020 года — анализ Netpeak](https://delo.ua/business/skolko-stoil-klik-v-google-ads-v-ukraine-v-perv-367949/), delo.ua, *апрель 2020*
 111. [Python: Как создать оформленную HTML таблицу из pandas DataFrame](https://alexeyseleznev.wordpress.com/2020/04/30/python-%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d1%82%d1%8c-%d0%be%d1%84%d0%be%d1%80%d0%bc%d0%bb%d0%b5%d0%bd%d0%bd%d1%83%d1%8e-html-%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d1%83-%d0%b8%d0%b7-pa/#more-1343), Блог Алексея Селезнёва, *апрель 2020*
+112. [Язык R для пользователей Excel (бесплатный видео курс)](https://habr.com/ru/post/495438/), Хабр, *май 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -157,10 +158,12 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     4. [Язык R для пользователей Excel #4: Фильтрация строк, выбор и переименование столбцов, пайпланы в R](https://youtu.be/uI0fc3foQQE), *апрель 2020*
     5. [Язык R для пользователей Excel #5: Добавление вычисляемых столбцов в таблицу на языке R](https://youtu.be/lYYOKPcJ6Gc), *апрель 2020*
     6. [Язык R для пользователей Excel #6: Группировка и агрегация данных на языке R](https://youtu.be/7zyL5apWm1M), *апрель 2020*
-7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2019*
-    1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2019*
-    2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2019*
-    3. [Обзор релиза dplyr 1.0.0: перебор строк функцией rowwise()](https://youtu.be/b23WR3vEGJc), R4marketing, *апрель 2019*
+7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2020*
+    1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2020*
+    2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2020*
+    3. [Обзор релиза dplyr 1.0.0: перебор строк функцией rowwise()](https://youtu.be/b23WR3vEGJc), R4marketing, *апрель 2020*
+8. [ryandexdirect: пакет для работы с API Яндекс Директ на языке R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67)
+    1. [ryandexdirect #1: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
 
 [↑ К содержанию](#содержание)
 
