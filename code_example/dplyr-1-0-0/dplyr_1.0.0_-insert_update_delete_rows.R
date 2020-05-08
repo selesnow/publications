@@ -1,15 +1,28 @@
+#devtools::install_github("tidyverse/dplyr")
 library(dplyr)
+
+# summarise + .groups
+starwars %>% 
+  group_by(homeworld, species) %>% 
+  summarise(n = n())
+
+## аргумент .groups
+### .groups = "drop_last" удалит последнюю группу
+### .groups = "drop" удалит всю группировку
+### .groups = "keep" созранит всю группировку
+### .groups = "rowwise" разобъёт фрейм на группы как rowwise()
 
 # rows_*()
 ## rows_update(x, y) обновляет строки в таблице x найденные в таблице y
-## rows_patch(x, y) работает аналогично rows_update() но заменяет только пропущенные значение, т.е. NA
+## rows_patch(x, y) работает аналогично rows_update() но заменяет только NA
 ## rows_insert(x, y) добавляет строки в таблицу x из таблицы y
-## rows_upsert(x, y) обновляет найденные строки в таблице x и добавляет не найденные из таблицы y
+## rows_upsert(x, y) обновляет найденные строки в x и добавляет не найденные из таблицы y
 ## rows_delete(x, y) удаляет строки из x найденные в таблице y.
 
 # Создаём тестовые данные
 df <- tibble(a = 1:3, b = letters[c(1:2, NA)], c = 0.5 + 0:2)
 df
+
 new <- tibble(a = c(4, 5), b = c("d", "e"), c = c(3.5, 4.5))
 new
 
@@ -30,13 +43,15 @@ df %>% rows_update(tibble(a = 4, b = "d"))
 df %>% 
   rows_patch(tibble(a = 2:3, b = "B"))
 
-## rows_upsert также вы можете добавлять новые и заменять существуюие значения функцией rows_upsert
+## rows_upsert также вы можете добавлять новые и заменять существуюие значения 
+## функцией rows_upsert
 df %>% 
   rows_upsert(tibble(a = 3, b = "c")) %>% 
   rows_upsert(tibble(a = 4, b = "d"))
 
+# ################################
 # РАЗБЕРЁМ Аргументы немного более подробно
-set.seed(333)
+set.seed(555)
 
 # менеджеры
 managers <- c("Paul", "Alex", "Tim", "Bill", "John")
@@ -47,9 +62,10 @@ products <- tibble(name  = paste0("product_", LETTERS),
 # функция генерации купленных товаров
 prod_list <- function(prod_list, size_min, size_max) {
   
-  prod <- tibble(product = sample(prod_list, size = round(runif(1, size_min, size_max), 0) ,replace = F))
-  
-  return(prod)
+  prod <- tibble(product = sample(prod_list, 
+                                  size = round(runif(1, size_min, size_max), 0) ,
+                                  replace = F))
+    return(prod)
 }
 
 
