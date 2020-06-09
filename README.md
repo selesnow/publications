@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 3 июня 2020*
+*Дата последнего обновления: 9 июня 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -131,6 +131,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 112. [Язык R для пользователей Excel (бесплатный видео курс)](https://habr.com/ru/post/495438/), Хабр, *май 2020*
 113. [Исследование: контекстная реклама дешевеет и перемещается на смартфоны](http://internetua.com/internet-biznes-vynujden-optimizirovat-mobilnye-versii), internetua.com, *май 2020*
 114. [dplyr 1.0.0 опубликован на CRAN: Видео обзор новых возможностей и произошедших в нём изменений](https://habr.com/ru/post/501028/), Хабр, *июнь 2020*
+115. [5 видеороликов о пакете dplyr языка R](https://proglib.io/p/5-videorolikov-o-pakete-dplyr-yazyka-r-2020-06-09), proglib, *июнь 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -165,6 +166,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     9. [Язык R для пользователей Excel #9: Вращение таблиц или аналог сводных таблиц в R](https://youtu.be/C72nlpBo9Cc), *май 2020*
     10. [Язык R для пользователей Excel #10: Загрузка JSON файлов в R и преобразование списков в таблицы](https://youtu.be/jMTx34aGhw4), R4marketing, *май 2020*
     11. [Язык R для пользователей Excel #11: Простейшая визуализация данных, пакет ggplot2 и функции qplot](https://youtu.be/bWaYo5cU6rk), R4marketing, *июнь 2020*
+    12. [Язык R для пользователей Excel #12: Построение графиков слой за слоем на языке R с помощью gplot2](https://youtu.be/9CDDKaZOp7M), R4marketing, *июнь 2020*
 7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2020*
     1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2020*
     2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2020*
