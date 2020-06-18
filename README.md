@@ -132,6 +132,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 113. [Исследование: контекстная реклама дешевеет и перемещается на смартфоны](http://internetua.com/internet-biznes-vynujden-optimizirovat-mobilnye-versii), internetua.com, *май 2020*
 114. [dplyr 1.0.0 опубликован на CRAN: Видео обзор новых возможностей и произошедших в нём изменений](https://habr.com/ru/post/501028/), Хабр, *июнь 2020*
 115. [5 видеороликов о пакете dplyr языка R](https://proglib.io/p/5-videorolikov-o-pakete-dplyr-yazyka-r-2020-06-09), proglib, *июнь 2020*
+116. [Сколько стоил клик в Google Ads в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-google-ads-q1.html), searchengines.ru, *июнь 2020*
+117. [Сколько стоил клик в Яндекс.Директе в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-yandex-direct-q1.html), searchengines.ru, *июнь 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -167,6 +169,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     10. [Язык R для пользователей Excel #10: Загрузка JSON файлов в R и преобразование списков в таблицы](https://youtu.be/jMTx34aGhw4), R4marketing, *май 2020*
     11. [Язык R для пользователей Excel #11: Простейшая визуализация данных, пакет ggplot2 и функции qplot](https://youtu.be/bWaYo5cU6rk), R4marketing, *июнь 2020*
     12. [Язык R для пользователей Excel #12: Построение графиков слой за слоем на языке R с помощью gplot2](https://youtu.be/9CDDKaZOp7M), R4marketing, *июнь 2020*
+    13. [Язык R для пользователей Excel #13: Изменение элементов графика и темы в ggplot2](https://youtu.be/8ZXzWx7gx4Q)
 7. [Обзор релиза R пакета dplyr версии 1.0.0](https://www.youtube.com/playlist?list=PLD2LDq8edf4qETNK0JPCjtsoQ7lq9BBV1), R4marketing, *апрель 2020*
     1. [Обзор релиза dplyr 1.0.0: функции select(), rename_with() и relocate()](https://youtu.be/k4v5cfLuUAQ), R4marketing, *апрель 2020*
     2. [Обзор релиза dplyr 1.0.0:  функция across()](https://youtu.be/J5tZpx_JxWk), R4marketing, *апрель 2020*
@@ -174,7 +177,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     4. [Обзор релиза dplyr 1.0.0: обновлённая функция summarise()](https://youtu.be/4RNBDDui6Yw), R4marketing, *май 2020*
     5. [Обзор релиза dplyr 1.0.0: добавление, изменение и удаление строк дата фрейма через rows_*()](https://youtu.be/A2nDQqH9Kr0), R4marketing, *май 2020*
 8. [ryandexdirect: пакет для работы с API Яндекс Директ на языке R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67)
-    1. [ryandexdirect #1: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
+    1. [ryandexdirect #1: Авторизация в API Яндекс Директ на языке R, опции пакета и переменные среды](https://youtu.be/hbUXttDFKNE), R4marketing, *июнь 2020*
+    2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 
 [↑ К содержанию](#содержание)
