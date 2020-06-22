@@ -134,7 +134,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 115. [5 видеороликов о пакете dplyr языка R](https://proglib.io/p/5-videorolikov-o-pakete-dplyr-yazyka-r-2020-06-09), proglib, *июнь 2020*
 116. [Сколько стоил клик в Google Ads в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-google-ads-q1.html), searchengines.ru, *июнь 2020*
 117. [Сколько стоил клик в Яндекс.Директе в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-yandex-direct-q1.html), searchengines.ru, *июнь 2020*
-118. [https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/](https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/), profit.kz, *июнь 2020*
+118. [Сколько стоит клик: Google Ads в Казахстане в I кв 2020](https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/), profit.kz, *июнь 2020*
 
 [↑ К содержанию](#содержание)
 
