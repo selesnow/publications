@@ -242,6 +242,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [Профиль на блоге Netpeak](https://netpeak.net/ru/blog/user/publication/826/)
 10. [linkedin.com/in/selesnow](https://linkedin.com/in/selesnow) - личный профиль на Linkedin
 11. [facebook.com/selesnow](https://facebook.com/selesnow) - личная страница в Facebook
+12. [onlinetestpad](https://onlinetestpad.com/ru/users/4xqdoekem4gie) - публичная страница на onlinetestpad
+13. [proglib](https://proglib.io/u/selesnow/posts) - профиль автора на proglib
 
 [↑ К содержанию](#содержание)
 
