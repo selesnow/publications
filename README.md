@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 18 июня 2020*
+*Дата последнего обновления: 25 июня 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -156,6 +156,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     5. [rfacebookstat #5 - Опции пакета и загрузка объектов из рекламных кабинетов Facebook](https://www.youtube.com/watch?v=ZaOvO5k6Ses&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=6&t=5s)
     6. [rfacebookstat #6 - Загрузка статистики, конверсии и окна атрибуции в Facebook Marketing API](https://www.youtube.com/watch?v=hc_hknCWZc4&list=PLD2LDq8edf4pItOb-vZTG5AXZK2niJ8_R&index=7&t=0s)
     7. [rfacebookstat #7 - Как загрузить статистику рекламных аккаунтов из Facebook в Power BI (язык R)](https://www.youtube.com/watch?v=WuOw33JjvGM)
+    8. [rfacebookstat #8: Как загрузить данные о расходах из Facebook в Google Analytics с помощью языка R](https://www.youtube.com/watch?v=j61dikcATQI)
 5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
 6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
