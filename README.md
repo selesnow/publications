@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 25 июня 2020*
+*Дата последнего обновления: 8 июля 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -181,6 +181,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 8. [ryandexdirect: пакет для работы с API Яндекс Директ на языке R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67)
     1. [ryandexdirect #1: Авторизация в API Яндекс Директ на языке R, опции пакета и переменные среды](https://youtu.be/hbUXttDFKNE), R4marketing, *июнь 2020*
     2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
+    3. [ryandexdirect #3: Как загрузить данные о расходах из Яндекс.Директ в Google Analytics](https://www.youtube.com/watch?v=T9y0Iuh5EWk), R4marketing, *июнь 2020*
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 
 [↑ К содержанию](#содержание)
