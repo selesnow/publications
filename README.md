@@ -135,6 +135,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 116. [Сколько стоил клик в Google Ads в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-google-ads-q1.html), searchengines.ru, *июнь 2020*
 117. [Сколько стоил клик в Яндекс.Директе в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-yandex-direct-q1.html), searchengines.ru, *июнь 2020*
 118. [Сколько стоит клик: Google Ads в Казахстане в I кв 2020](https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/), profit.kz, *июнь 2020*
+119. [9 видеоуроков по работе с Facebook Marketing API на языке R](https://ppc.world/articles/9-video-urokov-po-rabote-s-facebook-marketing-api-na-yazyke-r-s-pomoschyu-paketa-rfacebookstat/), ppc.world, *июль 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -183,6 +184,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
     3. [ryandexdirect #3: Как загрузить данные о расходах из Яндекс.Директ в Google Analytics](https://www.youtube.com/watch?v=T9y0Iuh5EWk), R4marketing, *июнь 2020*
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
+10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -218,6 +220,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 7. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
 8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
 9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
+10. Как работать с API Google Analytics на языке R, 8Р ONLINE EDITION, *июль 2020* (Coming Soon)
 
 [↑ К содержанию](#содержание)
 
