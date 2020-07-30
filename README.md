@@ -230,6 +230,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
 4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://netology.ru/free-lessons/skolko-deneg-prinosit-vash-kontent-razbiraemsya-s-pomoshchyu-business-intelligence#/features), Нетология, *февраль 2019*
 5. [R meetup: Чем нас порадует dplyr 1.0.0](https://youtu.be/zWGocRhDumk), Европейский Университет в СПб, *апрель 2020*
+6. [Основы Python. Работа с библиотекой Pandas.](https://youtu.be/I2KjERuZ3XY?t=3789), Productstar, *июль 2020*
 
 [↑ К содержанию](#содержание)
 
