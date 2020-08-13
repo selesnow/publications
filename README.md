@@ -136,6 +136,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 117. [Сколько стоил клик в Яндекс.Директе в России в первом квартале 2020 года](https://www.searchengines.ru/cpc-yandex-direct-q1.html), searchengines.ru, *июнь 2020*
 118. [Сколько стоит клик: Google Ads в Казахстане в I кв 2020](https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/), profit.kz, *июнь 2020*
 119. [9 видеоуроков по работе с Facebook Marketing API на языке R](https://ppc.world/articles/9-video-urokov-po-rabote-s-facebook-marketing-api-na-yazyke-r-s-pomoschyu-paketa-rfacebookstat/), ppc.world, *июль 2020*
+120. [Пишем telegram бота на языке R (часть 1): Создаём бота, и отправляем с его помощью сообщения в telegram](https://habr.com/ru/post/511222/), Хабр, *август 2020*
 
 [↑ К содержанию](#содержание)
 
