@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 30 июля 2020*
+*Дата последнего обновления: 25 августа 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -137,6 +137,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 118. [Сколько стоит клик: Google Ads в Казахстане в I кв 2020](https://profit.kz/news/58439/Skolko-stoit-klik-Google-Ads-v-Kazahstane-v-I-kv-2020/), profit.kz, *июнь 2020*
 119. [9 видеоуроков по работе с Facebook Marketing API на языке R](https://ppc.world/articles/9-video-urokov-po-rabote-s-facebook-marketing-api-na-yazyke-r-s-pomoschyu-paketa-rfacebookstat/), ppc.world, *июль 2020*
 120. [Пишем telegram бота на языке R (часть 1): Создаём бота, и отправляем с его помощью сообщения в telegram](https://habr.com/ru/post/511222/), Хабр, *август 2020*
+121. [Пишем telegram бота на языке R (часть 2): Добавляем боту поддержку команд и фильтры сообщений](https://habr.com/ru/post/515148/), Хабр, *август 2020*
 
 [↑ К содержанию](#содержание)
 
