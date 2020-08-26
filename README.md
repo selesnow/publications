@@ -203,6 +203,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 10. [R, Python, JavaScript или… Excel? Что учить интернет-маркетологу для профессионального роста](https://www.comagic.ru/blog/posts/apr/r_python_javascript_ili_excel_chto_uchit_internet_marketologu_dlya_professionalnogo_rosta/), CoMagic, *апрель 2019*
 11. [Сквозная аналитика. Все ли понимают этот термин одинаково? | Часть 1. Аналитики](https://vc.ru/marketing/88194-skvoznaya-analitika-vse-li-ponimayut-etot-termin-odinakovo-chast-1-analitiki), vc.ru, *октябрь 2019*
 12. [Как создать личный бренд в компании — кейс Алексея Селезнёва, руководителя отдела аналитики Netpeak](https://netpeak.net/ru/blog/kak-sozdat-lichnyy-brend-v-kompanii-keys-alekseya-selezneva-rukovoditelya-otdela-analitiki-netpeak/), Блог Netpeak, *апрель 2020*
+13. [Язык R для аналитиков и интернет-маркетологов](https://jms.university/blog/52849-yazyk-r-dlya-analitikov-i-internet-marketologov/), JMS University, *август 2020*
 
 [↑ К содержанию](#содержание)
 
