@@ -209,7 +209,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
-2. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing
+2. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
 
 [↑ К содержанию](#содержание)
 
