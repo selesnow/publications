@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 25 августа 2020*
+*Дата последнего обновления: 8 сентября 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -138,6 +138,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 119. [9 видеоуроков по работе с Facebook Marketing API на языке R](https://ppc.world/articles/9-video-urokov-po-rabote-s-facebook-marketing-api-na-yazyke-r-s-pomoschyu-paketa-rfacebookstat/), ppc.world, *июль 2020*
 120. [Пишем telegram бота на языке R (часть 1): Создаём бота, и отправляем с его помощью сообщения в telegram](https://habr.com/ru/post/511222/), Хабр, *август 2020*
 121. [Пишем telegram бота на языке R (часть 2): Добавляем боту поддержку команд и фильтры сообщений](https://habr.com/ru/post/515148/), Хабр, *август 2020*
+122. [Пишем telegram бота на языке R (часть 3): Как добавить боту поддержку клавиатуры](https://habr.com/ru/post/516908/), Хабр, *сентябрь 2020*
 
 [↑ К содержанию](#содержание)
 
@@ -224,6 +225,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
 9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
 10. Как работать с API Google Analytics на языке R, 8Р ONLINE EDITION, *июль 2020* (Coming Soon)
+11. Разработка telegram бота для получения данных из Метрики, ZM CONF, *август 2020* (Coming Soon)
 
 [↑ К содержанию](#содержание)
 
