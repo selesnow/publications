@@ -187,6 +187,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     1. [ryandexdirect #1: Авторизация в API Яндекс Директ на языке R, опции пакета и переменные среды](https://youtu.be/hbUXttDFKNE), R4marketing, *июнь 2020*
     2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
     3. [ryandexdirect #3: Как загрузить данные о расходах из Яндекс.Директ в Google Analytics](https://www.youtube.com/watch?v=T9y0Iuh5EWk), R4marketing, *июнь 2020*
+    4. [ryandexdirect #4: Как загрузить статистику из Яндекс.Директ с помощью языка R](https://youtu.be/2QPI0pAJUPE), R4marketing, *сентябрь 2020*
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
 
