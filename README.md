@@ -140,6 +140,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 121. [Пишем telegram бота на языке R (часть 2): Добавляем боту поддержку команд и фильтры сообщений](https://habr.com/ru/post/515148/), Хабр, *август 2020*
 122. [Пишем telegram бота на языке R (часть 3): Как добавить боту поддержку клавиатуры](https://habr.com/ru/post/516908/), Хабр, *сентябрь 2020*
 123. [Пишем telegram бота на языке R (часть 4): Построение последовательного, логического диалога с ботом](https://habr.com/ru/post/518470/), Хабр, *сентябрь 2020*
+124. [Сколько стоит клик в Google Ads в Украине: исследование](https://ain.ua/2020/09/23/skolko-stoit-klik-v-google-ads-v-ukraine-issledovanie/), ain.ua, *сентябрь 2020*
 
 [↑ К содержанию](#содержание)
 
