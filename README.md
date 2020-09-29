@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 24 сентября 2020*
+*Дата последнего обновления: 29 сентября 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -141,6 +141,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 122. [Пишем telegram бота на языке R (часть 3): Как добавить боту поддержку клавиатуры](https://habr.com/ru/post/516908/), Хабр, *сентябрь 2020*
 123. [Пишем telegram бота на языке R (часть 4): Построение последовательного, логического диалога с ботом](https://habr.com/ru/post/518470/), Хабр, *сентябрь 2020*
 124. [Сколько стоит клик в Google Ads в Украине: исследование](https://ain.ua/2020/09/23/skolko-stoit-klik-v-google-ads-v-ukraine-issledovanie/), ain.ua, *сентябрь 2020*
+125. [Скольк стои кли  Googl Ad  Росси в второ квартал 202 год. Исследовани Netpeak](https://rusability.ru/internet-marketing/skolko-stoil-klik-v-google-ads-v-rossii-vo-vtorom-kvartale-2020-goda-issledovanie-netpeak/), RUSABILITY, *сентябрь 2020*
+126. [5 видеоуроков по работе с API Яндекс.Директа с помощью языка R](https://ppc.world/articles/5-videourokov-po-rabote-s-api-yandeksdirekta-s-pomoschyu-yazyka-r/), ppc.world, *сентябрь 2020*
 
 [↑ К содержанию](#содержание)
 
