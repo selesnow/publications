@@ -143,6 +143,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 124. [Сколько стоит клик в Google Ads в Украине: исследование](https://ain.ua/2020/09/23/skolko-stoit-klik-v-google-ads-v-ukraine-issledovanie/), ain.ua, *сентябрь 2020*
 125. [Скольк стои кли  Googl Ad  Росси в второ квартал 202 год. Исследовани Netpeak](https://rusability.ru/internet-marketing/skolko-stoil-klik-v-google-ads-v-rossii-vo-vtorom-kvartale-2020-goda-issledovanie-netpeak/), RUSABILITY, *сентябрь 2020*
 126. [5 видеоуроков по работе с API Яндекс.Директа с помощью языка R](https://ppc.world/articles/5-videourokov-po-rabote-s-api-yandeksdirekta-s-pomoschyu-yazyka-r/), ppc.world, *сентябрь 2020*
+127. [Пишем telegram бота на языке R (часть 5): Управление правами пользователей бота](https://habr.com/ru/post/520208/), Хабр, *октябрь 2020*
 
 [↑ К содержанию](#содержание)
 
