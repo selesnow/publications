@@ -196,6 +196,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     5. [ryandexdirect #5: Отправка уведомлений, о том, что на балансе  Яндекс.Директ осталось мало средств](https://youtu.be/XCOQD7KW7JA), R4marketing, *сентябрь 2020*
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
+11. [Как перехватывать и обрабатывать ошибки на языке R: Конструкции try() и tryCatch()](https://youtu.be/GvmjW34IHu8), R4marketing, *октябрь 2020*
 
 [↑ К содержанию](#содержание)
 
