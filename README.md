@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 2 октября 2020*
+*Дата последнего обновления: 30 октября 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -144,6 +144,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 125. [Скольк стои кли  Googl Ad  Росси в второ квартал 202 год. Исследовани Netpeak](https://rusability.ru/internet-marketing/skolko-stoil-klik-v-google-ads-v-rossii-vo-vtorom-kvartale-2020-goda-issledovanie-netpeak/), RUSABILITY, *сентябрь 2020*
 126. [5 видеоуроков по работе с API Яндекс.Директа с помощью языка R](https://ppc.world/articles/5-videourokov-po-rabote-s-api-yandeksdirekta-s-pomoschyu-yazyka-r/), ppc.world, *сентябрь 2020*
 127. [Пишем telegram бота на языке R (часть 5): Управление правами пользователей бота](https://habr.com/ru/post/520208/), Хабр, *октябрь 2020*
+128. [Как загружать данные о расходах, офлайн-конверсиях и звонках в Яндекс Метрику](https://netpeak.net/ru/blog/kak-zagruzhat-dannyye-o-raskhodakh-oflayn-konversiyakh-i-zvonkakh-v-yandeks-metriku/), Блог Netpeak, *октябрь 2020*
 
 [↑ К содержанию](#содержание)
 
