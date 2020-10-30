@@ -283,8 +283,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 [↑ К содержанию](#содержание)
 
 ## Книги
-1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/)
-2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/)
+1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/), *2016 г.*
+2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/), *2018 г.*
+3. Разработка telegram ботов на языке R, *в производстве*
 
 [↑ К содержанию](#содержание)
 
