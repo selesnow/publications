@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 10 ноября 2020*
+*Дата последнего обновления: 18 ноября 2020*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -286,7 +286,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/), *2016 г.*
 2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/), *2018 г.*
-3. Разработка telegram ботов на языке R, *в производстве*
+3. [Разработка telegram ботов на языке R](https://selesnow.github.io/build_telegram_bot_using_r/), *2020 г.*
 
 [↑ К содержанию](#содержание)
 
