@@ -45,7 +45,7 @@
 28. [Сколько стоил клик в Google Ads в третьем квартале 2016 — исследование Netpeak](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-adwords-v-tret-em-kvartale-2016-issledovanie-netpeak), Блог Netpeak, *октябрь 2016*
 29. [Продвижение интернет-магазина с помощью Google Рекламы: первые шаги](https://netpeak.net/ru/blog/prodvizhenie-internet-magazina-s-pomoshch-yu-google-adwords-pervye-shagi), Блог Netpeak, *октябрь 2016*
 30. [Как настроить запуск R-скрипта по расписанию?](https://netpeak.net/ru/blog/kak-nastroit-zapusk-r-skripta-po-raspisaniyu), Блог Netpeak, *ноябрь 2016*
-31. [Как загрузить статистику рекламных кампаний из API Facebook с помощью языка R]https://netpeak.net/ru/blog/kak-zagruzit-statistiku-reklamnykh-kampanii-iz-api-facebook-s-pomoshch-yu-yazyka-r), Блог Netpeak, *декабрь 2016*
+31. [Как загрузить статистику рекламных кампаний из API Facebook с помощью языка R](https://netpeak.net/ru/blog/kak-zagruzit-statistiku-reklamnykh-kampanii-iz-api-facebook-s-pomoshch-yu-yazyka-r), Блог Netpeak, *декабрь 2016*
 32. [Как мы внедрили BI-аналитику в отделе контекстной рекламы](https://netpeak.net/ru/blog/kak-my-vnedrili-bi-analitiku-v-otdele-kontekstnoi-reklamy), Блог Netpeak, *декабрь 2016*
 33. [Сколько стоил клик в Google Ads в четвертом квартале 2016 — исследование Netpeak](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-adwords-v-chetvertom-kvartale-2016-issledovanie-netpeak), Блог Netpeak, *январь 2017*
 34. [Сколько стоил клик в Google Ads в 2016 году — данные по Болгарии, Казахстану, России, Украине](https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-google-adwords-v-2016-godu-issledovanie-netpeak), Блог Netpeak, *январь 2017*
