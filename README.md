@@ -169,6 +169,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     7. [rfacebookstat #7 - Как загрузить статистику рекламных аккаунтов из Facebook в Power BI (язык R)](https://www.youtube.com/watch?v=WuOw33JjvGM)
     8. [rfacebookstat #8: Как загрузить данные о расходах из Facebook в Google Analytics с помощью языка R](https://www.youtube.com/watch?v=j61dikcATQI)
     9. [rfacebookstat #9: Как загрузить данные о расходах и кликах из Facebook в Яндекс Метрику (Язык R)](https://youtu.be/yAxMQfrVzEc)
+    10. [rfacebookstat #10: Как запрашивать данные из бизнес менеджера Facebook с помощью языка R](https://youtu.be/O2BhRNO_ul4)
 5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
 6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
