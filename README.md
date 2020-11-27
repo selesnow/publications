@@ -238,6 +238,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
 10. Как работать с API Google Analytics на языке R, 8Р ONLINE EDITION, *июль 2020* (Coming Soon)
 11. [Разработка telegram бота для получения данных из Метрики](https://youtu.be/QrTCa4wLWjI), ZM CONF, *август 2020*
+12. [Учим язык R на примере SQL запросов](https://youtu.be/bbYC-uq250A), Product Star Conference, *ноябрь 2020*
 
 [↑ К содержанию](#содержание)
 
