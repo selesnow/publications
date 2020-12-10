@@ -3,24 +3,24 @@ library(RSQLite)
 library(dplyr)
 library(stringr)
 
-# подключение к базе
+# РїРѕРґРєР»СЋС‡РµРЅРёРµ Рє Р±Р°Р·Рµ
 con <- dbConnect(SQLite(), r'(C:\my_develop_workshop\r4marketing_contest_bot_1\contest_bot.db)')
 
-# таблица ссылок
+# С‚Р°Р±Р»РёС†Р° СЃСЃС‹Р»РѕРє
 data <- dbReadTable(con, 'links')
 
-# отключаемся от базы
+# РѕС‚РєР»СЋС‡Р°РµРјСЃСЏ РѕС‚ Р±Р°Р·С‹
 dbDisconnect(con)
 
-# к-во участников
+# Рє-РІРѕ СѓС‡Р°СЃС‚РЅРёРєРѕРІ
 nrow(data)
 
-# список ссылок
+# СЃРїРёСЃРѕРє СЃСЃС‹Р»РѕРє
 cat(paste0(str_pad(1:nrow(data),width = 2, 'right') , ":", data$link, collapse = "\n"))
 
-# выбор победителя
+# РІС‹Р±РѕСЂ РїРѕР±РµРґРёС‚РµР»СЏ
 winner <- sample_n(data, 1)
 
-# открываем ссылку победителя
+# РѕС‚РєСЂС‹РІР°РµРј СЃСЃС‹Р»РєСѓ РїРѕР±РµРґРёС‚РµР»СЏ
 browseURL(winner$link)
 
