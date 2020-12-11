@@ -236,7 +236,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 7. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
 8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
 9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
-10. Как работать с API Google Analytics на языке R, 8Р ONLINE EDITION, *июль 2020* (Coming Soon)
+10. [Как работать с API Google Analytics на языке R](https://youtu.be/p2D_iLZ1f-8), 8Р ONLINE EDITION, *июль 2020*
 11. [Разработка telegram бота для получения данных из Метрики](https://youtu.be/QrTCa4wLWjI), ZM CONF, *август 2020*
 12. [Учим язык R на примере SQL запросов](https://youtu.be/bbYC-uq250A), Product Star Conference, *ноябрь 2020*
 
