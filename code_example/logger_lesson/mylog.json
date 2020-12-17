@@ -1,0 +1,2 @@
+{"level":100,"timestamp":"2020-12-17 15:57:37","logger":"my_firts_logger","caller":"value[[3L]]","msg":"non-numeric argument to binary operator","custom_data":"my special data"}
+{"level":100,"timestamp":"2020-12-17 15:59:16","logger":"my_firts_logger","caller":"value[[3L]]","msg":"non-numeric argument to binary operator","custom_data":"my special data"}

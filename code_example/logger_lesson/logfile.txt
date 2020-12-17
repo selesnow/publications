@@ -1,0 +1,20 @@
+INFO  [2020-12-17 15:57:37.628] Start code
+INFO  [2020-12-17 15:57:37.815] last val is o
+FATAL [2020-12-17 15:57:37.873] non-numeric argument to binary operator
+INFO  [2020-12-17 15:57:38.062] End of code
+INFO  [2020-12-17 15:59:16.606] Start code
+DEBUG [2020-12-17 15:59:16.677] Calculate X
+DEBUG [2020-12-17 15:59:16.711] Calculate y
+DEBUG [2020-12-17 15:59:16.746] calculate last_val
+INFO  [2020-12-17 15:59:16.811] last val is o
+DEBUG [2020-12-17 15:59:16.844] calculate result
+FATAL [2020-12-17 15:59:16.970] non-numeric argument to binary operator
+INFO  [2020-12-17 15:59:17.195] End of code
+INFO  [2020-12-17 15:59:42.071] Start code
+DEBUG [2020-12-17 15:59:42.147] Calculate X
+DEBUG [2020-12-17 15:59:42.214] Calculate y
+DEBUG [2020-12-17 15:59:42.274] calculate last_val
+INFO  [2020-12-17 15:59:42.409] last val is 5
+DEBUG [2020-12-17 15:59:42.442] calculate result
+INFO  [2020-12-17 15:59:42.465] Result is 8.82622660064405e-10
+INFO  [2020-12-17 15:59:42.478] End of code
