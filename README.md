@@ -146,6 +146,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 127. [Пишем telegram бота на языке R (часть 5): Управление правами пользователей бота](https://habr.com/ru/post/520208/), Хабр, *октябрь 2020*
 128. [Как загружать данные о расходах, офлайн-конверсиях и звонках в Яндекс Метрику](https://netpeak.net/ru/blog/kak-zagruzhat-dannyye-o-raskhodakh-oflayn-konversiyakh-i-zvonkakh-v-yandeks-metriku/), Блог Netpeak, *октябрь 2020*
 129. [ООП в языке R (часть 2): R6 классы](https://habr.com/ru/post/521310/), Хабр, *ноябрь 2020*
+130. [Логирование выполнения скриптов на языке R, пакет lgr](https://habr.com/ru/post/529118/), Хабр, *декабрь 2020*
 
 [↑ К содержанию](#содержание)
 
