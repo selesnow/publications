@@ -240,6 +240,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 10. [Как работать с API Google Analytics на языке R](https://youtu.be/p2D_iLZ1f-8), 8Р ONLINE EDITION, *июль 2020*
 11. [Разработка telegram бота для получения данных из Метрики](https://youtu.be/QrTCa4wLWjI), ZM CONF, *август 2020*
 12. [Учим язык R на примере SQL запросов](https://youtu.be/bbYC-uq250A), Product Star Conference, *ноябрь 2020*
+13. [Как через R коннектор получить данные из Вконтакте в Power BI](https://youtu.be/uAF3YmjRTqU), || ежегодная конференция по построению продвинутых отчётов в Excel и Power BI, *декабрь 2020*
 
 [↑ К содержанию](#содержание)
 
