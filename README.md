@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 11 декабря 2020*
+*Дата последнего обновления: 13 января 2021*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -171,6 +171,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     8. [rfacebookstat #8: Как загрузить данные о расходах из Facebook в Google Analytics с помощью языка R](https://www.youtube.com/watch?v=j61dikcATQI)
     9. [rfacebookstat #9: Как загрузить данные о расходах и кликах из Facebook в Яндекс Метрику (Язык R)](https://youtu.be/yAxMQfrVzEc)
     10. [rfacebookstat #10: Как запрашивать данные из бизнес менеджера Facebook с помощью языка R](https://youtu.be/O2BhRNO_ul4)
+    11. [rfacebookstat #11: Как разбить большой запрос на подзапросы по периодам, аргумент fetch_by](https://youtu.be/ZN9-aYqq2tQ)
 5. [Как работать с API Google Таблиц на языке R пакет googlesheets4](https://youtu.be/no75MyT87l0), R4marketing, *февраль 2020*
 6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
@@ -201,6 +202,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
 11. [Как перехватывать и обрабатывать ошибки на языке R: Конструкции try() и tryCatch()](https://youtu.be/GvmjW34IHu8), R4marketing, *октябрь 2020*
+12. [Обработка ошибок на языке R: пакет retry и функции из пакета purrr - safely(), possibly(), quietly()](https://youtu.be/11rzRVMJchw), *январь 2020*
 
 [↑ К содержанию](#содержание)
 
