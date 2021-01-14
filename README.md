@@ -202,7 +202,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 9. [tidyr 1.1.0: Обзор релиза tidyr версии 1.1.0 (Язык R, tidyverse)](https://youtu.be/e6bqFeJgaa0), R4marketing, *июнь 2020*
 10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
 11. [Как перехватывать и обрабатывать ошибки на языке R: Конструкции try() и tryCatch()](https://youtu.be/GvmjW34IHu8), R4marketing, *октябрь 2020*
-12. [Обработка ошибок на языке R: пакет retry и функции из пакета purrr - safely(), possibly(), quietly()](https://youtu.be/11rzRVMJchw), *январь 2020*
+12. [Обработка ошибок на языке R: пакет retry и функции из пакета purrr - safely(), possibly(), quietly()](https://youtu.be/11rzRVMJchw), *январь 2021*
 
 [↑ К содержанию](#содержание)
 
