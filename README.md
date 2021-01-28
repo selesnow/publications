@@ -204,7 +204,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 10. [Как установить пакет на языке R из CRAN, GitHub или локальных файлов](https://youtu.be/1UvrWoZugic), R4marketing, *июль 2020*
 11. [Как перехватывать и обрабатывать ошибки на языке R: Конструкции try() и tryCatch()](https://youtu.be/GvmjW34IHu8), R4marketing, *октябрь 2020*
 12. [Обработка ошибок на языке R: пакет retry и функции из пакета purrr - safely(), possibly(), quietly()](https://youtu.be/11rzRVMJchw), *январь 2021*
-13. [Логирование процесса выполнения скриптов на языке R (пакеты lgr / lgrExtra)](https://youtu.be/xA8YGxQH1Ws)
+13. [Логирование процесса выполнения скриптов на языке R (пакеты lgr / lgrExtra)](https://youtu.be/xA8YGxQH1Ws), *январь 2021*
 
 [↑ К содержанию](#содержание)
 
