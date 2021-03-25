@@ -205,6 +205,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 11. [Как перехватывать и обрабатывать ошибки на языке R: Конструкции try() и tryCatch()](https://youtu.be/GvmjW34IHu8), R4marketing, *октябрь 2020*
 12. [Обработка ошибок на языке R: пакет retry и функции из пакета purrr - safely(), possibly(), quietly()](https://youtu.be/11rzRVMJchw), *январь 2021*
 13. [Логирование процесса выполнения скриптов на языке R (пакеты lgr / lgrExtra)](https://youtu.be/xA8YGxQH1Ws), *январь 2021*
+14. [rvkstat - R пакет для работы с API Вконтакте](https://www.youtube.com/playlist?list=PLD2LDq8edf4pQcy0zMmkTlk-o_Z6nRm5N), R4marketing, *февраль 2021*
+    1. [rvkstat #1: Авторизация в API Вконтакте на языке R](https://youtu.be/49-HTLOPSnU)
+    2. [rvkstat #2: Как получить статистику сообщества Вконтакте с помощью языка R](https://youtu.be/yTg0gknsiBU)
 
 [↑ К содержанию](#содержание)
 
