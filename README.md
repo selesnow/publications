@@ -208,7 +208,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 14. [rvkstat - R пакет для работы с API Вконтакте](https://www.youtube.com/playlist?list=PLD2LDq8edf4pQcy0zMmkTlk-o_Z6nRm5N), R4marketing, *февраль 2021*
     1. [rvkstat #1: Авторизация в API Вконтакте на языке R](https://youtu.be/49-HTLOPSnU)
     2. [rvkstat #2: Как получить статистику сообщества Вконтакте с помощью языка R](https://youtu.be/yTg0gknsiBU)
-15. [rappsflyer: Как получить данные из Pull API AppsFlyer на языке R](https://youtu.be/9Wn8n2A6x2w)
+15. [rappsflyer: Как получить данные из Pull API AppsFlyer на языке R](https://youtu.be/9Wn8n2A6x2w), R4marketing, *март 2021*
 
 
 [↑ К содержанию](#содержание)
