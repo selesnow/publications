@@ -1,23 +1,23 @@
 library(rvkstat)
 
-# установка переменных
+# СѓСЃС‚Р°РЅРѕРІРєР° РїРµСЂРµРјРµРЅРЅС‹С…
 vkSetTokenPath('C:/my_develop_workshop/vk_auth')
 vkSetUsername('rk_cabinet')
 
-# авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёВ¤
 vk_accounts <- vkGetAdAccounts()
 vkSetAccountId('1606703200')
 
 # #################################
-# Обычный рекламный аккаунт
+# СњР±С‹С‡РЅС‹Р№ СЂРµРєР»Р°РјРЅС‹Р№ Р°РєРєР°СѓРЅС‚
 # #################################
 
-# запрашиваем кампании и объявления
+# Р·Р°РїСЂР°С€РёРІР°РµРј РєР°РјРїР°РЅРёРё Рё РѕР±СЉВ¤РІР»РµРЅРёВ¤
 vk_camps <- vkGetAdCampaigns()
 vk_ads   <- vkGetAds()
 
-# запрашиваем статистику по объявлениям
-# по дняи
+# Р·Р°РїСЂР°С€РёРІР°РµРј СЃС‚Р°С‚РёСЃС‚РёРєСѓ РїРѕ РѕР±СЉВ¤РІР»РµРЅРёВ¤Рј
+# РїРѕ РґРЅВ¤Рё
 stat_by_ads_daily <- vkGetAdStatistics(
   ids_type = 'ad',
   ids = vk_ads$id,
@@ -26,7 +26,7 @@ stat_by_ads_daily <- vkGetAdStatistics(
   date_to = '2021-03-31'
 )
 
-# по неделям
+# РїРѕ РЅРµРґРµР»В¤Рј
 stat_by_ads_weekly <- vkGetAdStatistics(
   ids_type = 'ad',
   ids = vk_ads$id,
@@ -35,8 +35,8 @@ stat_by_ads_weekly <- vkGetAdStatistics(
   date_to = '2021-03-31'
 )
 
-# запрашиваем статистику по кампаниям
-# по месяцам
+# Р·Р°РїСЂР°С€РёРІР°РµРј СЃС‚Р°С‚РёСЃС‚РёРєСѓ РїРѕ РєР°РјРїР°РЅРёВ¤Рј
+# РїРѕ РјРµСЃВ¤С†Р°Рј
 stat_by_camps_monthly <- vkGetAdStatistics(
   ids_type = 'campaign',
   ids = vk_camps$id,
@@ -46,28 +46,28 @@ stat_by_camps_monthly <- vkGetAdStatistics(
 )
 
 # #################################
-# Агентский аккаунт
+# СРіРµРЅС‚СЃРєРёР№ Р°РєРєР°СѓРЅС‚
 # #################################
 vkSetUsername('selesnow_agency')
 
-# список аккаунтов
+# СЃРїРёСЃРѕРє Р°РєРєР°СѓРЅС‚РѕРІ
 vk_acoounts <- vkGetAdAccounts()
 
-# какой агентский аккаунт нас интересует
+# РєР°РєРѕР№ Р°РіРµРЅС‚СЃРєРёР№ Р°РєРєР°СѓРЅС‚ РЅР°СЃ РёРЅС‚РµСЂРµСЃСѓРµС‚
 vkSetAgencyId('1900002395')
 
-# запрашиваем список клиентов
+# Р·Р°РїСЂР°С€РёРІР°РµРј СЃРїРёСЃРѕРє РєР»РёРµРЅС‚РѕРІ
 vk_clients <- vkGetAdClients()
 
-# какой подчинённый аккаунт нас интересует
+# РєР°РєРѕР№ РїРѕРґС‡РёРЅР„РЅРЅС‹Р№ Р°РєРєР°СѓРЅС‚ РЅР°СЃ РёРЅС‚РµСЂРµСЃСѓРµС‚
 vkSetAccountId('1604857373')
 
-# запрашиваем объекты рекламного кабинета
+# Р·Р°РїСЂР°С€РёРІР°РµРј РѕР±СЉРµРєС‚С‹ СЂРµРєР»Р°РјРЅРѕРіРѕ РєР°Р±РёРЅРµС‚Р°
 vk_camps <- vkGetAdCampaigns()
 vk_ads   <- vkGetAds()
 
-# запрашиваем статистику
-# общая по месяцам
+# Р·Р°РїСЂР°С€РёРІР°РµРј СЃС‚Р°С‚РёСЃС‚РёРєСѓ
+# РѕР±С‰Р°В¤ РїРѕ РјРµСЃВ¤С†Р°Рј
 camp_stat <- vkGetAdStatistics(
     ids_type = 'campaign',
     ids = vk_camps$id,
@@ -76,7 +76,7 @@ camp_stat <- vkGetAdStatistics(
     date_to = '2019-12-31'
 )
 
-# в разреще городов
+# РІ СЂР°Р·СЂРµС‰Рµ РіРѕСЂРѕРґРѕРІ
 camp_city_stat <- vkGetAdCityStats(
   ids_type = 'campaign',
   ids = vk_camps$id,
@@ -85,7 +85,7 @@ camp_city_stat <- vkGetAdCityStats(
   date_to = '2019-12-31'
 )
 
-# в разрезе пола
+# РІ СЂР°Р·СЂРµР·Рµ РїРѕР»Р°
 camp_gender_stat <- vkGetAdGenderStats(
   ids_type = 'campaign',
   ids = vk_camps$id,
@@ -94,11 +94,11 @@ camp_gender_stat <- vkGetAdGenderStats(
   date_to = '2019-12-31'
 )
 
-# визуализация
+# РІРёР·СѓР°Р»РёР·Р°С†РёВ¤
 library(dplyr)
 library(ggplot2)
 
-# предобработка и визуализация
+# РїСЂРµРґРѕР±СЂР°Р±РѕС‚РєР° Рё РІРёР·СѓР°Р»РёР·Р°С†РёВ¤
 camp_stat %>%
   select(id, month, clicks) %>%
   left_join(camp_gender_stat) %>%
