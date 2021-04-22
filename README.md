@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 28 января 2021*
+*Дата последнего обновления: 22 апреля 2021*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -208,7 +208,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 14. [rvkstat - R пакет для работы с API Вконтакте](https://www.youtube.com/playlist?list=PLD2LDq8edf4pQcy0zMmkTlk-o_Z6nRm5N), R4marketing, *февраль 2021*
     1. [rvkstat #1: Авторизация в API Вконтакте на языке R](https://youtu.be/49-HTLOPSnU)
     2. [rvkstat #2: Как получить статистику сообщества Вконтакте с помощью языка R](https://youtu.be/yTg0gknsiBU)
+    3. [rvkstat #3: Как получить статистику рекламного кабинета Вконтакте с помощью языка R](https://www.youtube.com/watch?v=xVbd2JXlkmc)
 15. [rappsflyer: Как получить данные из Pull API AppsFlyer на языке R](https://youtu.be/9Wn8n2A6x2w), R4marketing, *март 2021*
+16. [Работа с датой и временем на языке R (пакет clock)](https://www.youtube.com/watch?v=XC-6y-sQ8js), R4marketing, *апрель 2021*
 
 
 [↑ К содержанию](#содержание)
