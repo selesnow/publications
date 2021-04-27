@@ -178,7 +178,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 6. [Язык R для пользователей Excel](https://www.youtube.com/playlist?list=PLD2LDq8edf4pgGg16wYMobvIYy_0MI0kF), R4marketing, *март 2020*
     1. [Язык R для пользователей Excel #1: Установка языка R и среды разработки RStudio](https://youtu.be/wFUoaeGEMmY), *март 2020*
     2. [Язык R для пользователей Excel #2: Структуры данных в R](https://youtu.be/GwqoGHa8wjQ), *март 2020*
-    3. [Язык R для пользователей Excel #2: Загрузка данных из csv. tsv, excel файлов и Google таблиц в R](https://youtu.be/vVFFtgcBp-w), *апрель 2020*
+    3. [Язык R для пользователей Excel #3: Загрузка данных из csv. tsv, excel файлов и Google таблиц в R](https://youtu.be/vVFFtgcBp-w), *апрель 2020*
     4. [Язык R для пользователей Excel #4: Фильтрация строк, выбор и переименование столбцов, пайпланы в R](https://youtu.be/uI0fc3foQQE), *апрель 2020*
     5. [Язык R для пользователей Excel #5: Добавление вычисляемых столбцов в таблицу на языке R](https://youtu.be/lYYOKPcJ6Gc), *апрель 2020*
     6. [Язык R для пользователей Excel #6: Группировка и агрегация данных на языке R](https://youtu.be/7zyL5apWm1M), *апрель 2020*
