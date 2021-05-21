@@ -222,9 +222,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Как поменялись цены на рекламу после бана российских сайтов: блиц-опрос](https://ain.ua/2017/08/18/kak-pomenyalis-ceny-na-reklamu/), AIN, *август 2017*
 3. [Результаты бана российских сайтов: падение охватов и передел бюджетов](https://ain.ua/2017/08/21/ban-rossijskix-sajtov-tri-mesyaca-spustya/), AIN, *август 2017*
 4. [Итоги-2017: как бан российских сайтов повлиял на украинский рекламный рынок](https://ain.ua/2017/12/27/itogi-2017-blokirovki/), AIN, *декабрь 2017*
-5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://discourse.digital/blogs/kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), Цифровой Дискурс, *апрель 2018*
+5. [Кто такие интернет-аналитики и какими инструментами они пользуются](https://jms.university/blog/56048-kto-takie-internet-analitiki-i-kakimi-instrumentami-oni-polzuyutsya/), JMS University, *апрель 2018*
 6. [Язык R в веб-аналитике и интернет-маркетинге](https://leadzavod.com/jazyk-r-v-veb-analitike-i-internet-marketinge/), Лидзавод, *октябрь 2018*
-7. [R и Python для гуманитариев и непрограммистов](https://discourse.digital/blogs/r-i-python-dlja-gumanitariev-i-neprogrammistov/), Цифровой Дискурс, *феварль 2019*
+7. [R и Python для гуманитариев и непрограммистов](https://jms.university/blog/56058-r-i-python-dlya-gumanitariev-i-neprogrammistov/), JMS University, *феварль 2019*
 8. [Зачем интернет-маркетологу язык R](https://www.comagic.ru/blog/posts/feb/zachem_internet_marketologu_yazyk_r/), CoMagic, *феварль 2019*
 9. [Тренды веб-аналитики 2019: ускоренные тестирования, борьба с дивергентностью и уважение к людям](https://www.seonews.ru/analytics/trendy-veb-analitiki-2019-uskorennye-testirovaniya-borba-s-divergentnostyu-i-uvazhenie-k-lyudyam/), SEOnews, *апрель 2019*
 10. [R, Python, JavaScript или… Excel? Что учить интернет-маркетологу для профессионального роста](https://www.comagic.ru/blog/posts/apr/r_python_javascript_ili_excel_chto_uchit_internet_marketologu_dlya_professionalnogo_rosta/), CoMagic, *апрель 2019*
