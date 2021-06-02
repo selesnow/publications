@@ -213,6 +213,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     3. [rvkstat #3: Как получить статистику рекламного кабинета Вконтакте с помощью языка R](https://www.youtube.com/watch?v=xVbd2JXlkmc)
 15. [rappsflyer: Как получить данные из Pull API AppsFlyer на языке R](https://youtu.be/9Wn8n2A6x2w), R4marketing, *март 2021*
 16. [Работа с датой и временем на языке R (пакет clock)](https://www.youtube.com/watch?v=XC-6y-sQ8js), R4marketing, *апрель 2021*
+17. [Циклы for, while и repeat в языке R](https://www.youtube.com/watch?v=w3v-Gqwxzcc), R4marketing, *апрель 2021*
+18. [Как настроить запуск R скриптов по расписанию на Windows](https://www.youtube.com/watch?v=FWE028d6RPI), R4marketing, *май 2021*
 
 
 [↑ К содержанию](#содержание)
