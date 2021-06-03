@@ -150,6 +150,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 131. [Как использовать функцию UNNEST в Google BigQuery для анализа параметров событий Google Analytics](https://habr.com/ru/post/532690/), Хабр, *январь 2021*
 132. [Как использовать конструкцию SELECT FROM UNNEST для анализа параметров в повторяющихся записях Google BigQuery](https://habr.com/ru/post/537570/), Хабр, *апрель 2021*
 133. [3 видеоурока по работе с API «ВКонтакте» на языке R](https://ppc.world/articles/3-videouroka-po-rabote-s-api-vkontakte-na-yazyke-r/), ppc.world, *май, 2021*
+134. [Вращение таблиц в Google BigQuery (PIVOT)](https://habr.com/ru/post/551368/), Хабр, *июнь 2021*
 
 [↑ К содержанию](#содержание)
 
