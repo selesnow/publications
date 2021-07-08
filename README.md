@@ -291,17 +291,18 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Пакеты
 1. ryandexdirect - Загрузка данных из API Яндекс.Директ в R, *([CRAN](https://cran.r-project.org/package=ryandexdirect), [GitHub](https://github.com/selesnow/ryandexdirect))*
-2. rfacebookstat - Загрузка данных из Facebook Marketing API в R, *([CRAN](https://cran.r-project.org/package=rfacebookstat), [GitHub](https://github.com/selesnow/rfacebookstat))*
-3. rmytarget - Загрузка данных из MyTarget API v2 в R, *([CRAN](https://cran.r-project.org/package=rmytarget), [GitHub](https://github.com/selesnow/rmytarget), [GitLab](https://gitlab.com/selesnow/rmytarget))*
-4. rym - Загрузка данных из API Яндекс.Метрики в R, *([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))*
-5. getProxy - Использование бесплатных прокси серверов в R сессии, *([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))*
-6. rvkstat - Загрузка данных из API Вконтакте в R, *([CRAN](https://cran.r-project.org/package=rvkstat), [GitHub](https://github.com/selesnow/rvkstat))*
-7. timeperiodsR - Упрощённое определение временных периодов, *([CRAN](https://cran.r-project.org/package=timeperiodsR), [GitHub](https://github.com/selesnow/timeperiodsR))*
-8. rappsflyer - Работа с API AppsFlyer *([CRAN](https://cran.r-project.org/package=rappsflyer), [GitHub](https://github.com/selesnow/rappsflyer))*
-9. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
-10. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
-11. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
-12. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
+2. rgoogleads- Загрузка данных из Google Ads API, *([CRAN](https://cran.r-project.org/package=rgoogleads), [GitHub](https://github.com/selesnow/rgoogleads))*
+3. rfacebookstat - Загрузка данных из Facebook Marketing API в R, *([CRAN](https://cran.r-project.org/package=rfacebookstat), [GitHub](https://github.com/selesnow/rfacebookstat))*
+4. rmytarget - Загрузка данных из MyTarget API v2 в R, *([CRAN](https://cran.r-project.org/package=rmytarget), [GitHub](https://github.com/selesnow/rmytarget), [GitLab](https://gitlab.com/selesnow/rmytarget))*
+5. rym - Загрузка данных из API Яндекс.Метрики в R, *([CRAN](https://cran.r-project.org/package=rym), [GitHub](https://github.com/selesnow/rym))*
+6. getProxy - Использование бесплатных прокси серверов в R сессии, *([CRAN](https://cran.r-project.org/package=getProxy), [GitHub](https://github.com/selesnow/getProxy))*
+7. rvkstat - Загрузка данных из API Вконтакте в R, *([CRAN](https://cran.r-project.org/package=rvkstat), [GitHub](https://github.com/selesnow/rvkstat))*
+8. timeperiodsR - Упрощённое определение временных периодов, *([CRAN](https://cran.r-project.org/package=timeperiodsR), [GitHub](https://github.com/selesnow/timeperiodsR))*
+9. rappsflyer - Работа с API AppsFlyer *([CRAN](https://cran.r-project.org/package=rappsflyer), [GitHub](https://github.com/selesnow/rappsflyer))*
+10. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
+11. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
+12. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
+13. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
 
 [↑ К содержанию](#содержание)
 
