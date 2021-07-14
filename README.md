@@ -310,7 +310,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 ## Книги
 1. [10 фишек Google Analytics](https://www.seonews.ru/books/10-fishek-google-analytics/), *2016 г.*
 2. [Язык R для интернет маркетинга](https://r-for-marketing.netpeak.net/), ([bookdown GUID 3c188b00-4843-4a1d-82ca-e9362a2ef450](https://bookdown.org/selesnow/r-for-excel-users/)),*2018 г.*
-3. [Разработка telegram ботов на языке R](https://selesnow.github.io/build_telegram_bot_using_r/), ([bookdown GUID 4eaa1378-564a-425e-9d5d-12fc01a71f56](https://bookdown.org/selesnow/bookdown-demo/)), *2020 г.*
+3. [Разработка telegram ботов на языке R](https://selesnow.github.io/build_telegram_bot_using_r/), ([bookdown GUID 708a467d-a60d-4760-8b9a-847d6b476d4c](https://bookdown.org/selesnow/build_telegram_bot_using_r/)), *2020 г.*
 
 [↑ К содержанию](#содержание)
 
