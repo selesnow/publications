@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 26 июля 2021*
+*Дата последнего обновления: 09 сентября 2021*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -152,6 +152,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 133. [3 видеоурока по работе с API «ВКонтакте» на языке R](https://ppc.world/articles/3-videouroka-po-rabote-s-api-vkontakte-na-yazyke-r/), ppc.world, *май, 2021*
 134. [Вращение таблиц в Google BigQuery (PIVOT)](https://habr.com/ru/post/551368/), Хабр, *июнь 2021*
 135. [Миграция с Google AdWords API на Google Ads API: подробный мануал](https://netpeak.net/ru/blog/migratsiya-s-google-adwords-api-na-google-ads-api-podrobnyy-manual/), Netpeak Journal, *июль, 2021*
+136. [Обзор R пакетов для интернет маркетинга, часть 2](https://habr.com/ru/post/575744/), Хабр, *сентябрь 2021*
 
 [↑ К содержанию](#содержание)
 
