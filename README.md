@@ -301,7 +301,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 7. rvkstat - Загрузка данных из API Вконтакте в R, *([CRAN](https://cran.r-project.org/package=rvkstat), [GitHub](https://github.com/selesnow/rvkstat))*
 8. timeperiodsR - Упрощённое определение временных периодов, *([CRAN](https://cran.r-project.org/package=timeperiodsR), [GitHub](https://github.com/selesnow/timeperiodsR))*
 9. rappsflyer - Работа с API AppsFlyer *([CRAN](https://cran.r-project.org/package=rappsflyer), [GitHub](https://github.com/selesnow/rappsflyer))*
-10. galigor - Коллекция пакетов для интернет - маркетинга, *([GitHub](https://github.com/selesnow/galigor))*
+10. galigor - Коллекция пакетов для интернет - маркетинга, *([CRAN](https://cran.r-project.org/package=galigor), [GitHub](https://github.com/selesnow/galigor))*
 11. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
 12. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 13. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
