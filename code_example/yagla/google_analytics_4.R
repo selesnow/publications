@@ -1,27 +1,27 @@
-# установка пакета
+# СѓСЃС‚Р°РЅРѕРІРєР° РїР°РєРµС‚Р°
 install.packages('googleAnalyticsR', 'dplyr', 'tidyr', 'ggplot2')
 
-# подключение пакета
+# РїРѕРґРєР»СЋС‡РµРЅРёРµ РїР°РєРµС‚Р°
 library(googleAnalyticsR) # GA4 API
-library(dplyr)            # манипуляция данными
-library(tidyr)            # очистка данных
-library(ggplot2)          # визуализация данных
+library(dplyr)            # РјР°РЅРёРїСѓР»СЏС†РёСЏ РґР°РЅРЅС‹РјРё
+library(tidyr)            # РѕС‡РёСЃС‚РєР° РґР°РЅРЅС‹С…
+library(ggplot2)          # РІРёР·СѓР°Р»РёР·Р°С†РёСЏ РґР°РЅРЅС‹С…
 
-# авторизация
+# Р°РІС‚РѕСЂРёР·Р°С†РёСЏ
 googleAuthR::gar_auth_configure(path = "C:/ga_auth/oauth_app.json")
 ga_auth(email = 'selesnow@gmail.com')
 
-# запросим список ресурсов GA4
+# Р·Р°РїСЂРѕСЃРёРј СЃРїРёСЃРѕРє СЂРµСЃСѓСЂСЃРѕРІ GA4
 ga4_accounts <- ga_account_list("ga4")
 
-# получить набор 
+# РїРѕР»СѓС‡РёС‚СЊ РЅР°Р±РѕСЂ 
 metadata <- ga_meta("data", propertyId = 282495698)
 browseURL('https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema')
 
-# запрос отчётов из GA4
+# Р·Р°РїСЂРѕСЃ РѕС‚С‡С‘С‚РѕРІ РёР· GA4
 my_property_id <- 282495698
 
-# простейший отчёт
+# РїСЂРѕСЃС‚РµР№С€РёР№ РѕС‚С‡С‘С‚
 basic <- ga_data(
   my_property_id,
   metrics = c("activeUsers","sessions"),
@@ -29,19 +29,19 @@ basic <- ga_data(
   date_range = c("2021-09-01", "yesterday")
 )
 
-# строим график
+# СЃС‚СЂРѕРёРј РіСЂР°С„РёРє
 qplot(
   x      = date, 
   y      = sessions, 
   data   = basic, 
   geom   = c('line', 'point'), 
   colour = I("red"), 
-  main   = "Количетсов сеансов по дням", 
-  xlab   = "Дата", 
-  ylab   = "Количество сеансов"
+  main   = "РљРѕР»РёС‡РµС‚СЃРѕРІ СЃРµР°РЅСЃРѕРІ РїРѕ РґРЅСЏРј", 
+  xlab   = "Р”Р°С‚Р°", 
+  ylab   = "РљРѕР»РёС‡РµСЃС‚РІРѕ СЃРµР°РЅСЃРѕРІ"
 )
 
-# отчёт по событиям
+# РѕС‚С‡С‘С‚ РїРѕ СЃРѕР±С‹С‚РёСЏРј
 events <- ga_data(
   my_property_id,
   metrics    = c("eventCount"),
@@ -49,7 +49,7 @@ events <- ga_data(
   date_range = c("2021-09-01", "yesterday")
 )
 
-# преобразуем данные
+# РїСЂРµРѕР±СЂР°Р·СѓРµРј РґР°РЅРЅС‹Рµ
 events <- pivot_wider(
   events, 
   id_cols     = c(date, defaultChannelGrouping),
@@ -58,15 +58,15 @@ events <- pivot_wider(
 ) %>% 
   mutate(across(where(is.numeric), replace_na, 0))
 
-# визуализация данных
+# РІРёР·СѓР°Р»РёР·Р°С†РёСЏ РґР°РЅРЅС‹С…
 qplot(
   x      = defaultChannelGrouping, 
   y      = session_start, 
   data   = events, 
   geom   = "col", 
-  main   = "Количетсов сеансов по источникам", 
-  xlab   = "Группа каналов", 
-  ylab   = "Количество сеансов",
+  main   = "РљРѕР»РёС‡РµС‚СЃРѕРІ СЃРµР°РЅСЃРѕРІ РїРѕ РёСЃС‚РѕС‡РЅРёРєР°Рј", 
+  xlab   = "Р“СЂСѓРїРїР° РєР°РЅР°Р»РѕРІ", 
+  ylab   = "РљРѕР»РёС‡РµСЃС‚РІРѕ СЃРµР°РЅСЃРѕРІ",
   fill   = defaultChannelGrouping
 )
 
