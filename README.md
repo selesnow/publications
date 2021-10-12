@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 09 сентября 2021*
+*Дата последнего обновления: 12 октября 2021*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -272,6 +272,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://netology.ru/free-lessons/skolko-deneg-prinosit-vash-kontent-razbiraemsya-s-pomoshchyu-business-intelligence#/features), Нетология, *февраль 2019*
 5. [R meetup: Чем нас порадует dplyr 1.0.0](https://youtu.be/zWGocRhDumk), Европейский Университет в СПб, *апрель 2020*
 6. [Основы Python. Работа с библиотекой Pandas.](https://youtu.be/I2KjERuZ3XY?t=3789), Productstar, *июль 2020*
+7. [Как работать с API Google Analytics 4 на языке R, воркшоп для новичков (googleAnalyticsR)](https://youtu.be/zJyDxd4JGg0), Yagla, *сентябрь 2021*
 
 [↑ К содержанию](#содержание)
 
