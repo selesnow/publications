@@ -1,12 +1,12 @@
 # apply family
 
-# пример с циклом ---------------------------------------------------------
-# строки
+# РїСЂРёРјРµСЂ СЃ С†РёРєР»РѕРј ---------------------------------------------------------
+# СЃС‚СЂРѕРєРё
 for ( x in seq_along(1:nrow(mtcars)) ) {
   cat(rownames(mtcars[x,]), ":", sum(mtcars[x,]), "\n")
 }
 
-# столбцы
+# СЃС‚РѕР»Р±С†С‹
 col_num <- 1
 
 for ( x in mtcars ) {
@@ -15,8 +15,8 @@ for ( x in mtcars ) {
 }
 
 # apply -------------------------------------------------------------------
-# 1 - строки
-# 2 - столюцы
+# 1 - СЃС‚СЂРѕРєРё
+# 2 - СЃС‚РѕР»СЋС†С‹
 apply(mtcars, 1, sum)
 apply(mtcars, 2, sum)
 
@@ -25,7 +25,7 @@ sum(mtcars[ ,3])
 # row operation -----------------------------------------------------------
 rowSums(mtcars)
 rowMeans(mtcars)
-# передача дополнительных аргументов --------------------------------------
+# РїРµСЂРµРґР°С‡Р° РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… Р°СЂРіСѓРјРµРЅС‚РѕРІ --------------------------------------
 apply(mtcars, 2, quantile, probs = 0.25)
 quantile(mtcars[, 3], probs = 0.25)
 
@@ -40,7 +40,7 @@ lapply(values, sum)
 sapply(values, sum)
 vapply(values, sum, FUN.VALUE = 7)
 
-# lapply с самописной функцией --------------------------------------------
+# lapply СЃ СЃР°РјРѕРїРёСЃРЅРѕР№ С„СѓРЅРєС†РёРµР№ --------------------------------------------
 fl <- function(x) {
   num_elements <- length(x)
   return(x[1] + x[num_elements])
@@ -49,12 +49,12 @@ fl <- function(x) {
 lapply(values, fl)
 
 
-# пример чтения файлов ----------------------------------------------------
+# РїСЂРёРјРµСЂ С‡С‚РµРЅРёСЏ С„Р°Р№Р»РѕРІ ----------------------------------------------------
 directory <- 'C:/Users/Alsey/Documents/docs/'
 files <- dir(path = directory, pattern = '\\.csv$')
 all_data <- list()
 
-# цикл 
+# С†РёРєР» 
 for ( file in files ) {
   data <- read.csv(paste0(directory, file))
   all_data <- append(all_data, list(data))
