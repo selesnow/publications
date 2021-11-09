@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 12 октября 2021*
+*Дата последнего обновления: 9 ноября 2021*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -154,6 +154,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 135. [Миграция с Google AdWords API на Google Ads API: подробный мануал](https://netpeak.net/ru/blog/migratsiya-s-google-adwords-api-na-google-ads-api-podrobnyy-manual/), Netpeak Journal, *июль, 2021*
 136. [Обзор R пакетов для интернет маркетинга, часть 2](https://habr.com/ru/post/575744/), Хабр, *сентябрь 2021*
 137. [Как работать с Ringostat API на языке R](https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/), Блог Ringostat, *октябрь 2021*
+138. [Заметки по языку R | Часть 1: Построение нетипичных диаграмм, и подписи данных в ggplot2](https://habr.com/ru/post/577784/), Хабр, *ноябрь 2021*
 
 [↑ К содержанию](#содержание)
 
