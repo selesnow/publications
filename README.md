@@ -155,6 +155,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 136. [Обзор R пакетов для интернет маркетинга, часть 2](https://habr.com/ru/post/575744/), Хабр, *сентябрь 2021*
 137. [Как работать с Ringostat API на языке R](https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/), Блог Ringostat, *октябрь 2021*
 138. [Заметки по языку R | Часть 1: Построение нетипичных диаграмм, и подписи данных в ggplot2](https://habr.com/ru/post/577784/), Хабр, *ноябрь 2021*
+139. [Заметки по языку R | Часть 2: Используем синтаксический сахар и приёмы Python в R](https://habr.com/ru/post/587480/), Хабр, *декабрь 2021*
 
 [↑ К содержанию](#содержание)
 
@@ -245,6 +246,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
 2. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
+3. Циклы и функционалы в языке R *(ожидается в марте 2022)*
 
 [↑ К содержанию](#содержание)
 
