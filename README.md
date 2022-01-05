@@ -246,8 +246,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 
 ## Курсы
 1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
-2. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
-3. Циклы и функционалы в языке R *(ожидается в марте 2022)*
+2. [Введение в dplyr 1.0.0](https://selesnow.github.io/dplyr_1_0_0_course/), R4marketing, *записан весной 2020, дооформлен в вид курса в январе 2022*
+3. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
+4. Циклы и функционалы в языке R *(ожидается в марте 2022)*
 
 [↑ К содержанию](#содержание)
 
