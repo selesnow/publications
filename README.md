@@ -223,6 +223,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 18. [Как настроить запуск R скриптов по расписанию на Windows](https://www.youtube.com/watch?v=FWE028d6RPI), R4marketing, *май 2021*
 19. [Работа со срезами в dplyr (функции семейства slice)](https://youtu.be/PrxyYMH7GB4), R4marketing, *июнь 2021*
 20. [Как не использовать циклы в R: функции семейства apply](https://www.youtube.com/watch?v=9uitTb_RWV0), R4marketing, *декабрь 2021*
+21. [Как не использовать циклы в R: Разбираем пакет purrr](https://youtu.be/tFXYQwVUXY8), R4marketing, *январь 2022*
 
 
 [↑ К содержанию](#содержание)
