@@ -156,6 +156,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 137. [Как работать с Ringostat API на языке R](https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/), Блог Ringostat, *октябрь 2021*
 138. [Заметки по языку R | Часть 1: Построение нетипичных диаграмм, и подписи данных в ggplot2](https://habr.com/ru/post/577784/), Хабр, *ноябрь 2021*
 139. [Заметки по языку R | Часть 2: Используем синтаксический сахар и приёмы Python в R](https://habr.com/ru/post/587480/), Хабр, *декабрь 2021*
+140. [Программирование с dplyr](https://habr.com/ru/post/593367/), Хабр, *январь 2022*
 
 [↑ К содержанию](#содержание)
 
