@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 12 января 2022*
+*Дата последнего обновления: 8 февраля 2022*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -225,6 +225,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 19. [Работа со срезами в dplyr (функции семейства slice)](https://youtu.be/PrxyYMH7GB4), R4marketing, *июнь 2021*
 20. [Как не использовать циклы в R: функции семейства apply](https://www.youtube.com/watch?v=9uitTb_RWV0), R4marketing, *декабрь 2021*
 21. [Как не использовать циклы в R: Разбираем пакет purrr](https://youtu.be/tFXYQwVUXY8), R4marketing, *январь 2022*
+22. [Как ускорить циклы в R. Многопоточность в языке R (foreach, parallel, pbapply, furrr)](https://youtu.be/im7tKu9XgB0), R4marketing, *февраль 2022*
 
 
 [↑ К содержанию](#содержание)
