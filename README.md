@@ -228,6 +228,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 20. [Как не использовать циклы в R: функции семейства apply](https://www.youtube.com/watch?v=9uitTb_RWV0), R4marketing, *декабрь 2021*
 21. [Как не использовать циклы в R: Разбираем пакет purrr](https://youtu.be/tFXYQwVUXY8), R4marketing, *январь 2022*
 22. [Как ускорить циклы в R. Многопоточность в языке R (foreach, parallel, pbapply, furrr)](https://youtu.be/im7tKu9XgB0), R4marketing, *февраль 2022*
+23. [Многопоточность в R: пакет future](https://youtu.be/WV_f6GQkDhs), R4marketing, *март 2022*
 
 
 [↑ К содержанию](#содержание)
