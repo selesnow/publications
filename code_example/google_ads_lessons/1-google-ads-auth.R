@@ -1,21 +1,21 @@
 library(rgoogleads)
 
-# простейший способ авторизации
+# РїСЂРѕСЃС‚РµР№С€РёР№ СЃРїРѕСЃРѕР± Р°РІС‚РѕСЂРёР·Р°С†РёРё
 gads_auth('alsey.netpeak@gmail.com')
 
-# настройка конфигурации авторизации
+# РЅР°СЃС‚СЂРѕР№РєР° РєРѕРЅС„РёРіСѓСЂР°С†РёРё Р°РІС‚РѕСЂРёР·Р°С†РёРё
 gads_auth_configure(
   path = 'C:/gads_auth_data/gads_oauth.json'
     )
 
 gads_auth('alsey.netpeak@gmail.com')
 
-# иерархия аккаунтов
+# РёРµСЂР°СЂС…РёСЏ Р°РєРєР°СѓРЅС‚РѕРІ
 top_accounts <- gads_get_accessible_customers()
 
-# опции
+# РѕРїС†РёРё
 gads_set_login_customer_id(1754107253)
 
-# запрос все иерархии аккаунтов
+# Р·Р°РїСЂРѕСЃ РІСЃРµ РёРµСЂР°СЂС…РёРё Р°РєРєР°СѓРЅС‚РѕРІ
 account_hie <- gads_get_account_hierarchy()
 
