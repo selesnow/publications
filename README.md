@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 30 марта 2022*
+*Дата последнего обновления: 23 апреля 2022*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -229,6 +229,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 21. [Как не использовать циклы в R: Разбираем пакет purrr](https://youtu.be/tFXYQwVUXY8), R4marketing, *январь 2022*
 22. [Как ускорить циклы в R. Многопоточность в языке R (foreach, parallel, pbapply, furrr)](https://youtu.be/im7tKu9XgB0), R4marketing, *февраль 2022*
 23. [Многопоточность в R: пакет future](https://youtu.be/WV_f6GQkDhs), R4marketing, *март 2022*
+24. [rgoogleads - R пакет для работы с Google Ads API](https://www.youtube.com/playlist?list=PLD2LDq8edf4qprTxRcflDwV9IvStiChHi), R4marketing, *апрель 2022*
+    1. [rgoogleads #1:  Авторизация в Google Ads API и запрос иерархии аккаунтов с помощью языка R](https://www.youtube.com/watch?v=nYak5sVj07k), R4marketing, *апрель 2022*
+    2. [rgoogleads #2:  Запрос отчётов из Google Ads API в R](https://www.youtube.com/watch?v=np67MNj2-JU), R4marketing, *апрель 2022*
 
 
 [↑ К содержанию](#содержание)
