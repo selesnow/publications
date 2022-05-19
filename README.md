@@ -159,6 +159,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 140. [Программирование с dplyr](https://habr.com/ru/post/593367/), Хабр, *январь 2022*
 141. [Работа с API на языке R, введение в пакет httr2](https://habr.com/ru/post/594855/), Хабр, *февраль 2022*
 142. [Циклы и функционалы в языке R (бесплатный видео курс)](https://habr.com/ru/post/651979/), Хабр, *март 2022*
+143. [Ускоряем dplyr: бекенды dtplyr, multidplyr и dbplyr (видео урок + конспект)](https://habr.com/ru/post/665680/)
 
 [↑ К содержанию](#содержание)
 
@@ -232,6 +233,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 24. [rgoogleads - R пакет для работы с Google Ads API](https://www.youtube.com/playlist?list=PLD2LDq8edf4qprTxRcflDwV9IvStiChHi), R4marketing, *апрель 2022*
     1. [rgoogleads #1:  Авторизация в Google Ads API и запрос иерархии аккаунтов с помощью языка R](https://www.youtube.com/watch?v=nYak5sVj07k), R4marketing, *апрель 2022*
     2. [rgoogleads #2:  Запрос отчётов из Google Ads API в R](https://www.youtube.com/watch?v=np67MNj2-JU), R4marketing, *апрель 2022*
+25. [Ускоряем dplyr: бекенды dtplyr, dbplyr и multidplyr](https://www.youtube.com/watch?v=Af5ZIAPMjJs), R4marketing, *май 2022*
 
 
 [↑ К содержанию](#содержание)
