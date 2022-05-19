@@ -159,7 +159,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 140. [Программирование с dplyr](https://habr.com/ru/post/593367/), Хабр, *январь 2022*
 141. [Работа с API на языке R, введение в пакет httr2](https://habr.com/ru/post/594855/), Хабр, *февраль 2022*
 142. [Циклы и функционалы в языке R (бесплатный видео курс)](https://habr.com/ru/post/651979/), Хабр, *март 2022*
-143. [Ускоряем dplyr: бекенды dtplyr, multidplyr и dbplyr (видео урок + конспект)](https://habr.com/ru/post/665680/)
+143. [Ускоряем dplyr: бекенды dtplyr, multidplyr и dbplyr (видео урок + конспект)](https://habr.com/ru/post/665680/), Хабр, *март 2022*
 
 [↑ К содержанию](#содержание)
 
