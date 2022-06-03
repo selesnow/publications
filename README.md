@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 19 мая 2022*
+*Дата последнего обновления: 3 июня 2022*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -160,6 +160,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 141. [Работа с API на языке R, введение в пакет httr2](https://habr.com/ru/post/594855/), Хабр, *февраль 2022*
 142. [Циклы и функционалы в языке R (бесплатный видео курс)](https://habr.com/ru/post/651979/), Хабр, *март 2022*
 143. [Ускоряем dplyr: бекенды dtplyr, multidplyr и dbplyr (видео урок + конспект)](https://habr.com/ru/post/665680/), Хабр, *март 2022*
+144. [Бесплатный курс "Язык R для интернет маркетинга"](https://habr.com/ru/post/669104/), Хабр, *июнь 2022*
 
 [↑ К содержанию](#содержание)
 
@@ -256,7 +257,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 [↑ К содержанию](#содержание)
 
 ## Курсы
-1. [Язык R для интернет-маркетинга](https://learn.needfordata.ru/r), NeedForData + Netpeak, *октябрь 2018*
+1. [Язык R для интернет-маркетинга](https://r-for-marketing.netpeak.net/), NeedForData + Netpeak, *октябрь 2018*
 2. [Введение в dplyr 1.0.0](https://selesnow.github.io/dplyr_1_0_0_course/), R4marketing, *записан весной 2020, дооформлен в вид курса в январе 2022*
 3. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
 4. [Циклы и функционалы в языке R](https://selesnow.github.io/iterations_in_r/), R4marketing, *март 2022*
