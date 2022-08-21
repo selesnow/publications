@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 3 июня 2022*
+*Дата последнего обновления: 21 августа 2022*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -238,6 +238,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 25. [Ускоряем dplyr: бекенды dtplyr, dbplyr и multidplyr](https://www.youtube.com/watch?v=Af5ZIAPMjJs), R4marketing, *май 2022*
 26. [rytstat: R пакет для работы с YouTube API](https://www.youtube.com/playlist?list=PLD2LDq8edf4o7kZuTh3ufEOIPF8qmxIhe)
     1. [rytstat #1: Авторизация в YouTube API на языке R](https://youtu.be/JgvlZm7GxBo), R4marketing, *июль 2022*
+    2. [rytstat #2: Работа с YouTube Data API (поиск и запрос данных о каналах, плей листах и видео)](https://youtu.be/mPoK0VRoxVM), R4marketing, *август 2022*
+27. [rtgstat #1: Аналитика Telegram каналов на языке R с помощью TGStat API и пакета rtgstat](https://youtu.be/QZCCRbGCms8), R4marketing, *июль 2022*
 
 
 [↑ К содержанию](#содержание)
