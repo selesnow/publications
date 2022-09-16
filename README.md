@@ -162,7 +162,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 143. [Ускоряем dplyr: бекенды dtplyr, multidplyr и dbplyr (видео урок + конспект)](https://habr.com/ru/post/665680/), Хабр, *март 2022*
 144. [Бесплатный курс "Язык R для интернет маркетинга"](https://habr.com/ru/post/669104/), Хабр, *июнь 2022*
 145. [Оборачиваем API с помощью httr2](https://habr.com/ru/post/665716/), Хабр, *июнь 2022*
-146. [Google BigQuery: Динамический UPSERT с помощью](https://alexeyseleznev.wordpress.com/2022/09/16/google-bigquery-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-upsert-%d1%81-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d1%8c%d1%8e-execute-immediate/), Блог Алексея Селезнёва, *сентябрь 2020*
+146. [Google BigQuery: Динамический UPSERT с помощью EXECUTE IMMEDIATE](https://alexeyseleznev.wordpress.com/2022/09/16/google-bigquery-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-upsert-%d1%81-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d1%8c%d1%8e-execute-immediate/), Блог Алексея Селезнёва, *сентябрь 2020*
 
 [↑ К содержанию](#содержание)
 
