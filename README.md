@@ -241,6 +241,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     1. [rytstat #1: Авторизация в YouTube API на языке R](https://youtu.be/JgvlZm7GxBo), R4marketing, *июль 2022*
     2. [rytstat #2: Работа с YouTube Data API (поиск и запрос данных о каналах, плей листах и видео)](https://youtu.be/mPoK0VRoxVM), R4marketing, *август 2022*
     3. [rytstat #3: Работа с YouTube Analytics API, запрос статистики по видео, плейлистам и рекламе](https://youtu.be/-0kWIvWNA0A), R4marketing, *сентябрь 2022*
+    4. [rytstat #4: Работа с YouTube Reporting API](https://youtu.be/FJwEPr8qHq8), R4marketing, *сентябрь 2022*
 27. [rtgstat #1: Аналитика Telegram каналов на языке R с помощью TGStat API и пакета rtgstat](https://youtu.be/QZCCRbGCms8), R4marketing, *июль 2022*
 28. [Как загрузить данные из Google BigQuery в Google Таблицу с помощью встроенного коннектора](https://youtu.be/W-hwi9zbxlM), R4marketing, *август 2022*
 
