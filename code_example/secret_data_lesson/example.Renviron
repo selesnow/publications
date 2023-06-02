@@ -1,0 +1,5 @@
+host=localhost
+user=alex
+pwd=my-password
+database=main_db
+access_token=secret_access_token

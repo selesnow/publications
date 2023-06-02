@@ -1,0 +1,7 @@
+database:
+  host: 'localhost'
+  user: 'alex'
+  pwd: 'my-password'  
+  database: 'main_db'
+api:
+  access_token: secret_access_token
