@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 21 августа 2022*
+*Дата последнего обновления: 9 июня 2023*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -209,6 +209,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     3. [Обзор релиза dplyr 1.0.0: перебор строк функцией rowwise()](https://youtu.be/b23WR3vEGJc), R4marketing, *апрель 2020*
     4. [Обзор релиза dplyr 1.0.0: обновлённая функция summarise()](https://youtu.be/4RNBDDui6Yw), R4marketing, *май 2020*
     5. [Обзор релиза dplyr 1.0.0: добавление, изменение и удаление строк дата фрейма через rows_*()](https://youtu.be/A2nDQqH9Kr0), R4marketing, *май 2020*
+    6. [Обзор релиза dplyr 1.1.0: аргумент .by, неравные join, ускорение arrange() и функция reframe()](https://www.youtube.com/watch?v=VBhhGavnrtI), , R4marketing, *январь 2023*
 8. [ryandexdirect: пакет для работы с API Яндекс Директ на языке R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67)
     1. [ryandexdirect #1: Авторизация в API Яндекс Директ на языке R, опции пакета и переменные среды](https://youtu.be/hbUXttDFKNE), R4marketing, *июнь 2020*
     2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
@@ -244,6 +245,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     4. [rytstat #4: Работа с YouTube Reporting API](https://youtu.be/FJwEPr8qHq8), R4marketing, *сентябрь 2022*
 27. [rtgstat #1: Аналитика Telegram каналов на языке R с помощью TGStat API и пакета rtgstat](https://youtu.be/QZCCRbGCms8), R4marketing, *июль 2022*
 28. [Как загрузить данные из Google BigQuery в Google Таблицу с помощью встроенного коннектора](https://youtu.be/W-hwi9zbxlM), R4marketing, *август 2022*
+29. [Как правильно хранить и работать с секретными данными на языке R](https://www.youtube.com/watch?v=7PPP8q0lE_o), R4marketing, *январь 2023*
 
 
 [↑ К содержанию](#содержание)
