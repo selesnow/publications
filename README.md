@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 9 июня 2023*
+*Дата последнего обновления: 17 августа 2023*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -246,7 +246,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 27. [rtgstat #1: Аналитика Telegram каналов на языке R с помощью TGStat API и пакета rtgstat](https://youtu.be/QZCCRbGCms8), R4marketing, *июль 2022*
 28. [Как загрузить данные из Google BigQuery в Google Таблицу с помощью встроенного коннектора](https://youtu.be/W-hwi9zbxlM), R4marketing, *август 2022*
 29. [Как правильно хранить и работать с секретными данными на языке R](https://www.youtube.com/watch?v=7PPP8q0lE_o), R4marketing, *январь 2023*
-
+30. [Разработка пакетов на R](), R4marketing, *август 2023*
+    1. [Разработка пакетов на R #1: Обзор рабочего процесса](https://youtu.be/3t2lbIQNQf8), R4marketing, *август 2023*
+    2. [Разработка пакетов на R #2: Настройка системы и интеграция с GitHub](https://youtu.be/OPiMVVBYZsM), R4marketing, *август 2023*
 
 [↑ К содержанию](#содержание)
 
