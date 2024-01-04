@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5d18f11d2579a3114b42e64c5834865b13e7d6ca/68747470733a2f2f616c6578657973656c657a6e65762e66696c65732e776f726470726573732e636f6d2f323031372f30332f61732e706e67" align="right" height="180"/>На этой странице собраны ссылки на все мои публикации, выступления, курсы, книги, интервью, ресурсы которые доступны в интернете. 
 
-*Дата последнего обновления: 17 августа 2023*
+*Дата последнего обновления: 04 января 2024*
 
 ## Содержание
 * [Статьи](#статьи)
@@ -246,9 +246,21 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 27. [rtgstat #1: Аналитика Telegram каналов на языке R с помощью TGStat API и пакета rtgstat](https://youtu.be/QZCCRbGCms8), R4marketing, *июль 2022*
 28. [Как загрузить данные из Google BigQuery в Google Таблицу с помощью встроенного коннектора](https://youtu.be/W-hwi9zbxlM), R4marketing, *август 2022*
 29. [Как правильно хранить и работать с секретными данными на языке R](https://www.youtube.com/watch?v=7PPP8q0lE_o), R4marketing, *январь 2023*
-30. [Разработка пакетов на R](), R4marketing, *август 2023*
+30. [Разработка пакетов на R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oImDbA4N9rOTzRtRFbzuud), R4marketing, *ноябрь 2023*
     1. [Разработка пакетов на R #1: Обзор рабочего процесса](https://youtu.be/3t2lbIQNQf8), R4marketing, *август 2023*
     2. [Разработка пакетов на R #2: Настройка системы и интеграция с GitHub](https://youtu.be/OPiMVVBYZsM), R4marketing, *август 2023*
+    3. [Разработка пакетов на R #3: Организация R кода в пакете](https://www.youtube.com/watch?v=pMeJ1DvnLFs), R4marketing, *август 2023*
+    4. [Разработка пакетов на R #4: Как и зачем добавлять данные в пакет](https://www.youtube.com/watch?v=6gOz6B8ztEk), R4marketing, *август 2023*
+    5. [Разработка пакетов на R #5: Файл DESCRIPTION, метаданные пакета](https://www.youtube.com/watch?v=QchPCM9T33s), R4marketing, *сентябрь 2023*
+    6. [Разработка пакетов на R #6: Управление зависимостями пакета, файл NAMESPACE](https://www.youtube.com/watch?v=sqvAu-2jcPY), R4marketing, *сентябрь 2023*
+    7. [Разработка пакетов на R #7: Написание юнит-тестов к функциям пакета](https://www.youtube.com/watch?v=kfXCtJV-Dew), R4marketing, *сентябрь 2023*
+    8. [Разработка пакетов на R #8: Документирование функций пакета](https://www.youtube.com/watch?v=oTgrv8tsIYw), R4marketing, *сентябрь 2023*
+    9. [Разработка пакетов на R #9: Опциональная документация уровня пакета - виньетки, READEM, NEWS](https://www.youtube.com/watch?v=ojo8CZUPS2k), R4marketing, *октябрь 2023*
+    10. [Разработка пакетов на R #10: Разработка сайта с документацией к пакету](https://www.youtube.com/watch?v=3_kGMO-UV3M), R4marketing, *октябрь 2023*
+    11. [Разработка пакетов на R #11: Публикация пакета на CRAN](https://www.youtube.com/watch?v=FAwgtfGINoo), R4marketing, *октябрь 2023*
+    12. [Разработка пакетов на R #12: Разработка пакета-обёртки над API](https://www.youtube.com/watch?v=ktPGh7HY8Tg), R4marketing, *октябрь 2023*
+    13. [Разработка пакетов на R #13: Обёртка над Google API](https://www.youtube.com/watch?v=s58ZJj1HYBk), R4marketing, *октябрь 2023*
+    14. [Разработка пакетов на R #14: Создание мета пакета](https://www.youtube.com/watch?v=NkXTDv8CyB4), R4marketing, *ноябрь 2023*
 
 [↑ К содержанию](#содержание)
 
@@ -274,6 +286,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 2. [Введение в dplyr 1.0.0](https://selesnow.github.io/dplyr_1_0_0_course/), R4marketing, *записан весной 2020, дооформлен в вид курса в январе 2022*
 3. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
 4. [Циклы и функционалы в языке R](https://selesnow.github.io/iterations_in_r/), R4marketing, *март 2022*
+5. [Разработка пакетов на языке R](https://selesnow.github.io/r_package_course/), R4marketing, *ноябрь 2023*
 
 [↑ К содержанию](#содержание)
 
@@ -292,6 +305,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 12. [Учим язык R на примере SQL запросов](https://youtu.be/bbYC-uq250A), Product Star Conference, *ноябрь 2020*
 13. [Как через R коннектор получить данные из Вконтакте в Power BI](https://youtu.be/uAF3YmjRTqU), || ежегодная конференция по построению продвинутых отчётов в Excel и Power BI, *декабрь 2020*
 14. [Зачем интернет маркетологу понимать, что такое API. Разбираем устройство API Google Ads](https://youtu.be/wtXVwOBo518), 8P, *июль 2021*
+15. [Воркшоп: Анализ показателя качества ключевых слов в Google Ads с помощью пакета rgoogleads](https://www.youtube.com/watch?v=EnImByySQEE), Kazakhstan Sociology Lab, *сентябрь 2023*
 
 [↑ К содержанию](#содержание)
 
@@ -343,6 +357,7 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 16. rmixpanel - Загрузка данных из API Mixpanel в R, *([GitHub](https://github.com/selesnow/rmixpanel))*
 17. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 18. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
+19. rlinkedinads - Работа с Linkedin Advertising API *([CRAN](https://cran.r-project.org/package=rlinkedinads), [GitHub](https://github.com/selesnow/rlinkedinads/))*
 
 [↑ К содержанию](#содержание)
 
