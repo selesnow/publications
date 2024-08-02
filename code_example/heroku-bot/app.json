@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "description": "A Telegram bot deployed on Heroku",
+  "repository": "https://github.com/your-repo/your-bot-repo",
+  "logo": "https://example.com/logo.png",
+  "keywords": ["telegram", "bot"],
+  "env": {
+    "CURBOT": {
+      "description": "Telegram Bot Token",
+      "required": true
+    },
+    "WEBHOOK_URL": {
+      "description": "Webhook URL",
+      "required": true
+    },
+    "EXCHANGERATE_API_KEY": {
+      "description": "CURRENCY RATES API KEY",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/virtualstaticvoid/heroku-buildpack-r.git"
+    }
+  ]
+}
