@@ -263,9 +263,9 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     14. [Разработка пакетов на R #14: Создание мета пакета](https://www.youtube.com/watch?v=NkXTDv8CyB4), R4marketing, *ноябрь 2023*
 31. [ChatGPT для аналитика данных. Успешные и не успешные кейсы использования в работе.](https://www.youtube.com/watch?v=P93BqWhT_Ck), R4marketing, *июль 2024*
 32. [Запуск R скриптов по расписанию с помощью GitHub Actions](https://www.youtube.com/watch?v=SR69O1bkzmI), R4marketing, *июль 2024*
-33. [Как настроить запуск R скриптов по расписанию с помощью Google Cloude Run Job](https://www.youtube.com/watch?v=zdqRR-3ZFkM), R4marketing, *август 2023*
-34. [Разворачиваем Telegram бота в Google Cloud Run](https://www.youtube.com/watch?v=YCXTjodFmqo), R4marketing, *август 2023*
-35. [Разворачиваем Telegram бота на платформе Heroku](https://www.youtube.com/watch?v=TJRxWS0W7UY), R4marketing, *август 2023*
+33. [Как настроить запуск R скриптов по расписанию с помощью Google Cloude Run Job](https://www.youtube.com/watch?v=zdqRR-3ZFkM), R4marketing, *август 2024*
+34. [Разворачиваем Telegram бота в Google Cloud Run](https://www.youtube.com/watch?v=YCXTjodFmqo), R4marketing, *август 2024*
+35. [Разворачиваем Telegram бота на платформе Heroku](https://www.youtube.com/watch?v=TJRxWS0W7UY), R4marketing, *август 2024*
 36. [Как использовать искусственный интеллект в R: от ellmer до shinychat + практический кейс внедрения](https://www.youtube.com/watch?v=J7q4pfSDpgU), R4marketing, *апрель 2025*
 
 [↑ К содержанию](#содержание)
