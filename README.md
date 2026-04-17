@@ -209,7 +209,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
     3. [Обзор релиза dplyr 1.0.0: перебор строк функцией rowwise()](https://youtu.be/b23WR3vEGJc), R4marketing, *апрель 2020*
     4. [Обзор релиза dplyr 1.0.0: обновлённая функция summarise()](https://youtu.be/4RNBDDui6Yw), R4marketing, *май 2020*
     5. [Обзор релиза dplyr 1.0.0: добавление, изменение и удаление строк дата фрейма через rows_*()](https://youtu.be/A2nDQqH9Kr0), R4marketing, *май 2020*
-    6. [Обзор релиза dplyr 1.1.0: аргумент .by, неравные join, ускорение arrange() и функция reframe()](https://www.youtube.com/watch?v=VBhhGavnrtI), , R4marketing, *январь 2023*
+    6. [Обзор релиза dplyr 1.1.0: аргумент .by, неравные join, ускорение arrange() и функция reframe()](https://www.youtube.com/watch?v=VBhhGavnrtI), R4marketing, *январь 2023*
+    7. [Обзор релиза dplyr 1.2.0: filter_out(), replace_values(), recode_values(), when_any()](https://www.youtube.com/watch?v=2GXYCZKKYDA), R4marketing, *февраль 2026*
 8. [ryandexdirect: пакет для работы с API Яндекс Директ на языке R](https://www.youtube.com/playlist?list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67)
     1. [ryandexdirect #1: Авторизация в API Яндекс Директ на языке R, опции пакета и переменные среды](https://youtu.be/hbUXttDFKNE), R4marketing, *июнь 2020*
     2. [ryandexdirect #2: Загрузка прогноза кликов, показов, трат, и отчётов из WordStat с помощью языка R](https://www.youtube.com/watch?v=g9lwjsgAhyY&list=PLD2LDq8edf4oUo0L9Kw77ZXf0KcV1hu67&index=2&t=0s), R4marketing, *май 2020*
@@ -266,7 +267,15 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 33. [Как настроить запуск R скриптов по расписанию с помощью Google Cloude Run Job](https://www.youtube.com/watch?v=zdqRR-3ZFkM), R4marketing, *август 2024*
 34. [Разворачиваем Telegram бота в Google Cloud Run](https://www.youtube.com/watch?v=YCXTjodFmqo), R4marketing, *август 2024*
 35. [Разворачиваем Telegram бота на платформе Heroku](https://www.youtube.com/watch?v=TJRxWS0W7UY), R4marketing, *август 2024*
-36. [Как использовать искусственный интеллект в R: от ellmer до shinychat + практический кейс внедрения](https://www.youtube.com/watch?v=J7q4pfSDpgU), R4marketing, *апрель 2025*
+36. [Разработка AI инструментов с попомощью языка R](https://www.youtube.com/watch?v=J7q4pfSDpgU&list=PLD2LDq8edf4rMEIeUfGVnZlgrYLuDDiuf)
+    1. [Как использовать искусственный интеллект в R: от ellmer до shinychat + практический кейс внедрения](https://www.youtube.com/watch?v=J7q4pfSDpgU), R4marketing, *апрель 2025*
+    2. [Как встроить LLM модели (ChatGPT / Claude / Gemini) в Telegram-бота на языке R](https://www.youtube.com/watch?v=J7fLXcHtDX0), R4marketing, *май 2025*
+    3. [Язык R как MCP сервер и MCP клиент (разработка AI ассистента)](https://youtu.be/460ZySMbpuI), R4marketing, *май 2025*
+    4. [RAG: Как подключить AI чат к собственной базе знаний (язык R + ellmer + ragnar)](https://youtu.be/n60u8931mX4), R4marketing, *декабрь 2026*
+    5. [Кастомизация интерфейса AI чата (R + shinychat)](https://youtu.be/xxk-sxKSoII), R4marketing, *январь 2026*
+    6. [Разработка Shiny интерфейса для манипуляции данными на ествесственном языке (пакет querychat)](https://youtu.be/pS4pKPWB9VI), R4marketing, *март 2026*
+    7. [Разработка мульти агентных AI систем (R + ellmer + mini007)](https://www.youtube.com/watch?v=7YLlot7-d4M), R4marketing, *февраль 2026*
+38. [Автоматизация разработки в RStudio с помощью Gemini CLI](https://www.youtube.com/watch?v=puIbAG2Ms4c), R4marketing, *апрель 2026*
 
 [↑ К содержанию](#содержание)
 
@@ -293,19 +302,20 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 3. [Язык R для пользователей Excel](https://selesnow.github.io/r4excel_users/), R4marketing, *июнь 2020*
 4. [Циклы и функционалы в языке R](https://selesnow.github.io/iterations_in_r/), R4marketing, *март 2022*
 5. [Разработка пакетов на языке R](https://selesnow.github.io/r_package_course/), R4marketing, *ноябрь 2023*
+6. [Язык R для разработки AI инструментов](https://selesnow.github.io/build_ai_tools_using_r/), R4marketing, *март 2026*
 
 [↑ К содержанию](#содержание)
 
 ## Выступления
-1. [BI решение для отдела контекстной рекламы](https://netpeak.ua/conference/322/), Analyze, *апрель 2017*
-2. [Как разобраться со своими данными, если ты не аналитик](https://netpeak.ua/conference/354/), eCommerce 2017, *ноябрь 2017*
-3. [Язык R в маркетинге и бизнесе](https://netpeak.ua/conference/382/), Analyze, *апрель 2018*
+1. [BI решение для отдела контекстной рекламы]([https://netpeak.ua/conference/322/](https://www.youtube.com/watch?v=pM8DQ0lLM6k)), Analyze, *апрель 2017*
+2. [Как разобраться со своими данными, если ты не аналитик](https://www.youtube.com/watch?v=L1ApUOea7Qc), eCommerce 2017, *ноябрь 2017*
+3. [Язык R в маркетинге и бизнесе](https://www.youtube.com/watch?v=wRlRd_b-qAs), Analyze, *апрель 2018*
 4. [Как построить отдел аналитики в крупной компании. Команда, задачи и KPI. Кейсы Netpeak](https://netpeak.ua/conference/390/), Kyiv Data Spring, *май 2018*
 5. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом (Мастер класс)](https://youtu.be/1X1EKt6tDHU), Матемаркетинг, *ноябрь 2018*
 6. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом (Доклад)](https://youtu.be/G_JWto5eFpI), Матемаркетинг, *ноябрь 2018*
-7. [Три шага для построения отдела аналитики в компании](https://netpeak.ua/education/speech/420/), Lviv iCamp, *декабрь 2018*
-8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://netpeak.ua/education/speech/432/), GoAnalytics, *апрель 2019*
-9. [Работа с Facebook Marketing API на языке R](https://netpeak.ua/education/speech/453/), Analize! Lviv, *сентябрь 2019*
+7. [Три шага для построения отдела аналитики в компании](https://www.youtube.com/watch?v=Ju98kWnec14), Lviv iCamp, *декабрь 2018*
+8. [Как информационные дайджесты помогают контролировать работу десятков интернет-маркетологов по сотням проектов и ничего при этом не упустить](https://www.youtube.com/watch?v=fLP0gbsYF1k), GoAnalytics, *апрель 2019*
+9. [Работа с Facebook Marketing API на языке R](https://youtu.be/de1QW80FsiA), Analize! Lviv, *сентябрь 2019*
 10. [Как работать с API Google Analytics на языке R](https://youtu.be/p2D_iLZ1f-8), 8Р ONLINE EDITION, *июль 2020*
 11. [Разработка telegram бота для получения данных из Метрики](https://youtu.be/QrTCa4wLWjI), ZM CONF, *август 2020*
 12. [Учим язык R на примере SQL запросов](https://youtu.be/bbYC-uq250A), Product Star Conference, *ноябрь 2020*
@@ -316,10 +326,10 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 [↑ К содержанию](#содержание)
 
 ## Вебинары
-1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://webpromoexperts.com.ua/vebinars/kak-marketologu-izbavitsa-ot-rutiny-s-pomosu-azyka-r-i-nakonec-to-zanatsa-marketingom/), WebPromo Experts, *ноябрь 2018*
-2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym](https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html), CyberMarketing, *ноябрь 2018*
+1. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://www.youtube.com/watch?v=Kh-wyU-VXRU), WebPromo Experts, *ноябрь 2018*
+2. [Как автоматизировать работу с данными Яндекс Метрики с помощью языка R и пакета rym]([https://www.cybermarketing.ru/vebinary/kak_avtomatizirovat_rabotu_s_dannymi_yandeks_metriki.html](https://www.youtube.com/watch?v=sCp2D6068es), CyberMarketing, *ноябрь 2018*
 3. [Как маркетологу избавиться от рутины с помощью языка R и наконец-то заняться маркетингом](https://youtu.be/mUn2Uwsvy0U), онлайн конференция AutomationDay, *ноябрь 2018*
-4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://netology.ru/free-lessons/skolko-deneg-prinosit-vash-kontent-razbiraemsya-s-pomoshchyu-business-intelligence#/features), Нетология, *февраль 2019*
+4. [Сколько денег приносит ваш контент. Разбираемся с помощью Business intelligence](https://www.youtube.com/watch?v=ESl3NR01IXI), Нетология, *февраль 2019*
 5. [R meetup: Чем нас порадует dplyr 1.0.0](https://youtu.be/zWGocRhDumk), Европейский Университет в СПб, *апрель 2020*
 6. [Основы Python. Работа с библиотекой Pandas.](https://youtu.be/I2KjERuZ3XY?t=3789), Productstar, *июль 2020*
 7. [Как работать с API Google Analytics 4 на языке R, воркшоп для новичков (googleAnalyticsR)](https://youtu.be/zJyDxd4JGg0), Yagla, *сентябрь 2021*
@@ -364,6 +374,8 @@ https://netpeak.net/ru/blog/skol-ko-stoil-klik-v-yandeks-direkt-i-google-adwords
 17. rGitHub - Загрузка статистики репозиториев из GitHub API в R, *([GitHub](https://github.com/selesnow/rGitHub))*
 18. habR - Парсинг сайта habr.ru, *([GitHub](https://github.com/selesnow/habR))*
 19. rlinkedinads - Работа с Linkedin Advertising API *([CRAN](https://cran.r-project.org/package=rlinkedinads), [GitHub](https://github.com/selesnow/rlinkedinads/))*
+20. rappleads - Работа с Apple Ads API *([CRAN](https://cran.r-project.org/package=rappleads), [GitHub](https://github.com/selesnow/rappleads/))*
+21. rtiktokads - Работа с TikTok Ads API *([CRAN](https://cran.r-project.org/package=rtiktokads), [GitHub](https://github.com/selesnow/rtiktokads/))*
 
 [↑ К содержанию](#содержание)
 
